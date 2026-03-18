@@ -19,7 +19,7 @@
       .col-sm-6.col-lg-3
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/introduccion/2.png", alt="")
-      .col-sm-6.col-lg-9
+      .col-lg-9
         p Las ventas suponen un mecanismo de continuidad de los negocios y ganancia económica, desde el punto de vista del vendedor cuando lo ofrece a un público definido que, de una u otra forma, satisface sus necesidades y deseos.
         .p-4.bg-azul-claro.rounded-4
           p.mb-0 Por lo anterior, el presente componente de formación surge en el marco de las ventas para poder tener la capacidad de establecer e interactuar con los clientes potenciales según sus necesidades y el medio definido para llevar a cabo la estrategia de venta. En este sentido, se sugiere identificar, en el siguiente recurso de aprendizaje, el contexto de formación y algunos aspectos para iniciar y finalizar este momento de aprendizaje. Bienvenido.
