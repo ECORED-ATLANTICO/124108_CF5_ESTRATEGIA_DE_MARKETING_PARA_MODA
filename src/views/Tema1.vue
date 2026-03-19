@@ -127,7 +127,7 @@
         .crd_hover_txt.rounded-4(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/13.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema1/13.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Venta directa o personal
             p.mb-0 En este tipo de venta el cliente debe desplazarse hasta el lugar en que desea adquirir el producto o servicio y el vendedor le ofrecerá las características de este, de esta forma se genera una conexión personal entre los dos con una comunicación directa.
@@ -136,7 +136,7 @@
         .crd_hover_txt.rounded-4(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/14.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema1/14.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Venta interna
             p.mb-0 En este tipo de venta, también llamada #[em inside sales], el vendedor conoce muy bien a su cliente potencial. De acuerdo con ese conocimiento es que ofrecerá el producto de la manera más adecuada. Además, permite el uso de herramientas de conectividad para evitar desplazamiento y aumentar la productividad.
@@ -145,7 +145,7 @@
         .crd_hover_txt.rounded-4(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/15.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema1/15.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Venta #[em inbound]
             p.mb-0 Este tipo de venta sigue el camino del #[em inbound marketing], al usar la estrategia de atraer a los clientes para que lleguen al proceso de compra y no se necesita salir a buscarlos. Se deben enviar mensajes persuasivos al enfoque de la venta, con el fin de que los usuarios interesados lleguen al punto que sea planteado. Es de destacar que para este tipo de venta es necesario el uso de un sitio web para la recepción de los leads o clientes potenciales.
@@ -154,7 +154,7 @@
         .crd_hover_txt.rounded-4(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/16.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema1/16.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Ventas en línea
             p.mb-0 Este tipo de ventas también se podrían llamar ventas por Internet o ventas online, las cuales se llevan a cabo a través de la web, donde varias empresas venden sus productos; pero se debe tener en cuenta el tipo de consumidor al cual se dirigen y la manera de ofertar los productos o servicios.
@@ -352,7 +352,7 @@
         .crd_hover_txt.rounded-4(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/31.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema1/31.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Primer paso
             p.mb-0 El primer paso está en la búsqueda de prospectos comerciales, aquellos usuarios que pueden estar dentro del público objetivo y que puedan interesarse por actividades de la marca con las que se pueda generar una base de datos; por ejemplo, concursos, registros en eventos virtuales, etc.
@@ -361,7 +361,7 @@
         .crd_hover_txt.rounded-4(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/32.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema1/32.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Segundo paso
             p.mb-0 El segundo paso se enfoca en la interacción con los clientes, a través de #[em likes], comentarios o contenido compartido, que dé a entender que estás pendiente de aquellos usuarios que interactúan en la red social de la marca.
@@ -370,7 +370,7 @@
         .crd_hover_txt.rounded-4(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/33.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema1/33.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Tercer paso
             p.mb-0 El tercer paso, es realizar la venta. El cliente debe tener la oportunidad de enviar una reseña acerca del producto o servicio adquirido, lo cual permitirá que otros usuarios se conviertan en posibles clientes a partir de la experiencia de alguien que ya hizo uso de dicho producto.

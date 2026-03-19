@@ -297,6 +297,13 @@ figcaption
     &:before
       content: url('../assets/curso/common/list-disc.svg')
 
+  &--checklist
+    .lista-ul__vineta
+      top: 4px !important
+      margin-bottom: 10px
+      &:before
+        content: url('../assets/curso/common/checklist.svg')
+
 .custom-tarjeta-numerada
   .tarjeta-numerada
     border-width: 4px
@@ -367,3 +374,28 @@ figcaption
 .titulo-con-imagen__texto
   margin: 0
   padding-left: 50px
+
+.slider-wrapper
+  position: relative
+  .bg-fullwidth
+    background-image: url(../assets/curso/common/bg-slider.png)
+    background-position: center
+    background-size: cover
+    position: absolute
+    top: -40px
+    left: -47px
+    bottom: -20px
+    right: -60px
+    width: calc( 100% + 96px )
+    height: calc( 100% + 80px )
+    border-radius: 20px
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    // background-image: url(../assets/bullets/arrow-white.svg)
+  .slyder-a__bullets__item
+    background-color: #678AEE
+    border-color: #678AEE
+    opacity: 0.5
+    &--active
+      opacity: 1
