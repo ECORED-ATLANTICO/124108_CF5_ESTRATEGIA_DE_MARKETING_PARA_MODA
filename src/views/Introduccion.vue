@@ -57,7 +57,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/introduccion/6.png", alt="Imagen de acompañamiento")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.long-title
             h4.mb-3 ¿Cómo está estructurado el componente de formación?
             p.mb-0 Para desarrollar la experiencia de aprendizaje, se tendrá contenido temático y actividades de aprendizaje para desarrollar conocimiento, habilidades y actitudes. Adelante con su aprendizaje.
 

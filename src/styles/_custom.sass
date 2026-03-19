@@ -246,11 +246,15 @@ figcaption
 
   .crd_hover_txt--body
     position: absolute
-    padding: 1.5rem
+    padding: 1.2rem
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
-    transform: translateY(calc( 100% - 5.15rem ))
     background-color: #E0E8FC
+    transform: translateY(calc( 100% - 3.84rem ))
+    &.long-title
+      transform: translateY(calc( 100% - 5.15rem ))
+      &:hover
+        transform: translateY(0)
   
   @media (min-width:1200px) and (max-width:1400px)  
     .crd_hover_txt--body
@@ -287,11 +291,11 @@ figcaption
 .mb-6
   margin-bottom: 6rem
 
-// .lista-ul.custom-list
-//   .lista-ul__vineta
-//     top: -2px !important
-//     &:before
-//       content: url('../assets/curso/common/list-disc.svg')
+.lista-ul.custom-list
+  .lista-ul__vineta
+    top: -2px !important
+    &:before
+      content: url('../assets/curso/common/list-disc.svg')
 
 .custom-tarjeta-numerada
   .tarjeta-numerada
@@ -343,3 +347,23 @@ figcaption
     .tarjeta
       padding-top: 10px !important
       padding-left: 40px !important
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #EAE7F0
+  border-radius: 20px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: -30px
+  width: 85px
+  z-index: 5
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 50px
