@@ -158,7 +158,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/18.png", alt="")
       .col-lg-8
-        .p-5.bg-acento-contenido-a5
+        .p-4.bg-azul-medio
           p.mb-0 Las bases de datos se constituyen principalmente por información del historial de ventas, datos demográficos y socioeconómicos, además de otros que la empresa puede definir como determinantes. Tal como lo afirman García y Gutiérrez (2013), “Este tipo de información ayuda a la empresa a conocer mejor a sus clientes, de modo que se puedan llevar a cabo acciones de marketing individualizadas” (p.135). Esto permitirá personalizar la información y dirigir las estrategias hacia los enfoques de los clientes, para lograr una ventaja competitiva frente a otras empresas del sector.
 
     .cajon.color-acento-contenido.p-4
@@ -182,7 +182,7 @@
           .col-lg-7.col-xl-6
             h5 Determinar la tecnología adecuada
             p.mb-4.mb-lg-0 Al tener en cuenta factores económicos, magnitud de la empresa y público objetivo, se puede determinar el tipo de software a utilizarse para desarrollar la base de datos.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema4/25.png', alt='')
       .py-4.py-md-5.px-3(titulo="Determinar la información requerida" :icono="require('@/assets/curso/tema4/21.png')")
@@ -191,7 +191,7 @@
             h5 Determinar la información requerida
             p Los datos recopilados pueden ser entregados por el cliente o pueden ser supuestos por la empresa enfocándose en el comportamiento rutinario de este al conectar con la empresa.
             p.mb-4.mb-lg-0 Entre la información importante, se encuentran los datos personales, datos de contacto, datos demográficos, datos de compras, visitas a puntos de venta o detalles de los pagos, entre otros.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema4/26.png', alt='')
       .py-4.py-md-5.px-3(titulo="Determinar el método de recolección de datos" :icono="require('@/assets/curso/tema4/22.png')")
@@ -199,7 +199,7 @@
           .col-lg-7.col-xl-6
             h5 Determinar el método de recolección de datos
             p.mb-4.mb-lg-0 La forma de recolectar la información se determina por los medios utilizados por la empresa y que el cliente esté dispuesto a entregar los datos solicitados. Esto supone el uso de formularios, cuestionarios de preguntas cortas o el diligenciamiento de plataformas.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema4/27.png', alt='')
       .py-4.py-md-5.px-3(titulo="Utilización de la base de datos" :icono="require('@/assets/curso/tema4/23.png')")
@@ -207,7 +207,7 @@
           .col-lg-7.col-xl-6
             h5 Utilización de la base de datos
             p.mb-4.mb-lg-0 De acuerdo con la información recolectada, las bases de datos permiten conocer al cliente para ofrecerle un servicio personalizado y diferenciador le que genere satisfacción.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema4/28.png', alt='')
       .py-4.py-md-5.px-3(titulo="Actualización de la base de datos" :icono="require('@/assets/curso/tema4/24.png')")
@@ -215,7 +215,7 @@
           .col-lg-7.col-xl-6
             h5 Actualización de la base de datos
             p.mb-4.mb-lg-0 Actualizar constantemente las bases de datos permite una correcta entrega de información para cumplir la misión de estas en la resolución de necesidades que presente el cliente.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema4/29.png', alt='')
 

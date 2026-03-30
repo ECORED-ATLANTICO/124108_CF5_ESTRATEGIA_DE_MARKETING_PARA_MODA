@@ -8,7 +8,7 @@
       h1 Qué es una venta y tipos de venta
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
-      .col-6.col-lg-4
+      .col-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/1.png", alt="")
       .col-lg-8.col-xl-5
@@ -102,20 +102,17 @@
     .tarjeta--container.row.mb-4.z-2
       .col-md.tarjeta.bg-acento-contenido-a5.p-5
         .row.align-items-center.mb-4
-          .col-4.col-md-3
-            figure
-              img.img-90(src='@/assets/curso/tema1/11.png', alt='')
-          .col-8.col-md-9
-            h3 Ventas simples / self-service
+          .col-12.d-flex.align-items-center
+            img.img-90(src='@/assets/curso/tema1/11.png', alt='')
+            h2.ms-2.mb-0.flex-grow-1 Ventas simples / self-service
+
         p.mb-5 Este tipo de ventas se refiere a aquellas que se realizan en el momento, sin mucha complicación y antelación, ya que el cliente potencial, o lead, va por su cuenta a adquirir el producto o servicio. Aquí se puede mencionar el comercio electrónico o el retail.
         p #[strong Ejemplos]: ropa, alimentos, elementos de aseo, etc.
       .col-md.tarjeta.bg-terciario-t20.p-5
         .row.align-items-center.mb-4
-          .col-4.col-md-3
-            figure
-              img.img-90(src='@/assets/curso/tema1/12.png', alt='')
-          .col-8.col-md-9
-            h3 Ventas complejas
+          .col-12.d-flex.align-items-center
+            img.img-90(src='@/assets/curso/tema1/12.png', alt='')
+            h2.ms-2.mb-0.flex-grow-1 Ventas complejas
         p.mb-5 Este tipo de ventas requiere de un proceso mucho más minucioso entre el vendedor y el cliente potencial, o lead, donde el primero sirve como consultor desde el primer acercamiento para la posible venta.
         p #[strong Ejemplos]: venta de inmuebles, vehículos, software, etc.
 
@@ -238,7 +235,7 @@
       .row(titulo="<strong>Venta offline</strong>: son aquellos que no operan con un sistema web.").justify-content-center.align-items-center
         .col-12
           .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.custom-avatar.z-2.pt-4
-            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/20.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -247,7 +244,7 @@
                       .col-12
                         h5 Puntos de venta  
                         p Se refiere al punto físico donde se venden los productos o servicios.
-            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/21.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -256,7 +253,7 @@
                       .col-12
                         h5 Venta directa  
                         p Se refiere al contacto directo que se desarrolla entre el vendedor y su cliente, sin necesidad de un establecimiento físico.
-            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/22.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -336,14 +333,14 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/29.png", alt="")
       .col-lg-8
         p Al desenvolvernos en el mundo digital, entendiendo que este es un entorno cambiante, determinado por las circunstancias que surgen en el día a día, los negocios también han tenido que adaptarse para seguir expandiendo su alcance. El fácil acceso a Internet ha permitido que muchas personas alrededor del mundo tengan la capacidad de realizar ventas y compras a través de este maravilloso medio que traspasa barreras de espacio y tiempo, permitiendo la optimización de recursos.
-        .p-3.bg-primario-p10.rounded-4
+        .p-3.bg-primario-p10.rounded-4.mb-3
           .row.align-items-center
             .col-xl-11
-              p.mb-0 Dentro de los canales de venta, se tienen en cuenta las plataformas y herramientas utilizadas para acercar al cliente con la oferta de una empresa, donde se encuentran implícitos los canales de promoción para publicitar un producto y lograr que este conecte con el cliente para lograr la venta. Cada empresa puede definir el canal o los canales de ventas que más se ajusten, dependiendo de lo que ofrece, el público al que se dirige, las oportunidades en el mercado, entre otros factores; al entender estas nociones básicas se puede definir qué canal será el más adecuado.
+              p.mb-0 Según Contreras (2019), el social #[em selling] se define como el uso de las redes sociales para llevar a cabo una venta, al encontrar e interactuar con los prospectos comerciales. Esta estrategia ha surgido por el incremento en el uso de las redes sociales, las cuales permiten recopilar datos de los clientes potenciales, además de interactuar con ellos de manera personalizada, conociendo las necesidades de los usuarios, y, de esta manera, buscar el momento preciso para dar a entender que se puede ofrecer una solución a dicha necesidad.
             .col-lg-1.d-none.d-xl-block
               figure
                 img(data-aos="fade-down-right", src="@/assets/curso/tema1/30.png", alt="")
-
+        p Al hacer uso del social selling se obtiene una ventaja significativa frente a las estrategias tradicionales, con el enfoque en el conocimiento del cliente, adaptando la marca y tono de comunicación a sus gustos, generando conexiones duraderas que vayan más allá de una venta y se conviertan en una experiencia de largo alcance.    
     .p-4.bg-primario-p10.rounded-4.mb-4.mb-lg-5
       p.mb-0.text-center #[strong Para hacer uso del social selling, estos son los pasos a tener presente y que pueden ser útiles en el contexto profesional:]
 

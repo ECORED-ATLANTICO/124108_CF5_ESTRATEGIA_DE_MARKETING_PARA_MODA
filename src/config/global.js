@@ -184,7 +184,7 @@ export default {
     },
     {
       referencia:
-        'Contreras, N. (2019, 12 de marzo). Social selling: La guía de ventas en redes sociales. <em>Hootsuite.</em>',
+        'Contreras, N. (2019, 12 de marzo). <em>Social selling: La guía de ventas en redes sociales.</em> Hootsuite.',
       link:
         'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/#:%7E:text=El%20social%20selling%20es%20el,significativas%20con%20los%20clientes%20potenciales',
     },
@@ -218,12 +218,12 @@ export default {
     },
     {
       referencia:
-        'Muente, G. (2018, 22 de mayo). Tipos de ventas: ¿cuáles existen y en qué se distinguen? <em>Rock Content.</em>',
+        'Muente, G. (2018, 22 de mayo). <em>Tipos de ventas: ¿cuáles existen y en qué se distinguen?</em> Rock Content.',
       link: 'https://rockcontent.com/es/blog/tipos-de-ventas/',
     },
     {
       referencia:
-        'Pastrana, C. (2014, 10 de febrero). Cómo escribir en Internet: técnicas de redacción periodística. <em>IEBS.</em>',
+        'Pastrana, C. (2014, 10 de febrero). <em>Cómo escribir en Internet: técnicas de redacción periodística.</em> IEBS.',
       link:
         'https://www.iebschool.com/blog/redaccion-medios-online-comunicacion-digital/',
     },

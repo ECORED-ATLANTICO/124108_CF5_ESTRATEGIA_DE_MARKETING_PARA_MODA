@@ -29,7 +29,7 @@
           .col-lg-7.col-xl-6
             h5 Personas
             p.mb-4.mb-lg-0 El talento humano es un factor fundamental para llevar a cabo una estrategia de CRM. Formar a las personas para que se adapten a los cambios que supone la empresa con la adopción de este sistema es crucial, por ello el retorno a la inversión lo proveerá el personal que implemente y haga un uso adecuado.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema3/6.png', alt='')
       .py-4.py-md-5.px-3(titulo="Procesos" :icono="require('@/assets/curso/tema3/4.png')")
@@ -37,7 +37,7 @@
           .col-lg-7.col-xl-6
             h5 Procesos
             p.mb-4.mb-lg-0 Es necesario evaluar los procesos que se llevan a cabo al interior de la empresa para que el CRM se efectúe correctamente, es decir, buscar que la herramienta se adapte a la empresa entendiendo todo el potencial que ésta permite y la manera en que se direcciona para lograr los objetivos propuestos. El manejo de datos es imprescindible para el desarrollo de la estrategia.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema3/7.png', alt='')
       .py-4.py-md-5.px-3(titulo="Tecnología" :icono="require('@/assets/curso/tema3/5.png')")
@@ -45,7 +45,7 @@
           .col-lg-7.col-xl-6
             h5 Tecnología
             p.mb-4.mb-lg-0 Las soluciones tecnológicas a través de los sistemas de recopilación y organización de datos permiten obtener información de los clientes, lo que, a su vez, permite el éxito de un proceso de ventas. A partir de la automatización de los procesos, se pueden deducir infinidad de datos que sean necesarios según la estrategia de marketing; en ellos está el verdadero valor para la empresa.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema3/8.png', alt='')
 

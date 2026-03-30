@@ -7,7 +7,7 @@
         span 2
       h1 Comunicación asertiva con clientes
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
-      .col-sm-4.col-lg-4
+      .col-md-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/1.png", alt="")
       .col-lg-8
@@ -23,7 +23,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Redacción para medios de comunicación digitales
     .row.justify-content-center.align-items-center.mb-6.z-2
-      .col-sm-6.col-lg-3
+      .col-10.col-sm-8.col-lg-3
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/2.png", alt="")
       .col-lg-9
@@ -98,23 +98,23 @@
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.png")
         h4.titulo-con-imagen__texto Contenido diferenciador
 
-    .row.align-items-stretch.mb-4.mb-lg-5
+    .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-4.px-5.h-100
+        .tarjeta-numerada.color-secundario.p-4.px-5.h-100
           .tarjeta-numerada__numero
             .h2 1
           h5 El rasgo distintivo inherente 
           p.mb-0 Se refiere a la búsqueda de un factor diferenciador que genere mayores beneficios a partir de las características propias de determinado producto.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-4.px-5.h-100
+        .tarjeta-numerada.color-acento-contenido.p-4.px-5.h-100
           .tarjeta-numerada__numero
             .h2 2
           h5 El rasgo distintivo contingente 
           p.mb-0 Se inclina hacia la emoción que puede generar una característica de un producto determinado.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-4.px-5.h-100
+        .tarjeta-numerada.color-primario.p-4.px-5.h-100
           .tarjeta-numerada__numero
             .h2 3
           h5 La proposición argumental virgen
@@ -148,7 +148,7 @@
           .col-lg-7.col-xl-6
             h5 Publicidad
             p.mb-4.mb-lg-0 Se implementa a través de anuncios de contenidos informativos que publiciten lo que desea una marca, para dar a conocer al público y orientar la adquisición del consumidor del bien o servicio.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema2/16.png', alt='')
       .py-4.py-md-5.px-3(titulo="Relaciones públicas" :icono="require('@/assets/curso/tema2/14.png')")
@@ -156,7 +156,7 @@
           .col-lg-7.col-xl-6
             h5 Relaciones públicas
             p.mb-4.mb-lg-0 Se establece a partir de un diálogo que genera conexiones con públicos externos que posibiliten el posicionamiento de la marca, para generar beneficios a largo plazo, y posibilita el contacto cercano con el público objetivo.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema2/17.png', alt='')
       .py-4.py-md-5.px-3(titulo="Responsabilidad social corporativa" :icono="require('@/assets/curso/tema2/15.png')")
@@ -164,7 +164,7 @@
           .col-lg-7.col-xl-6
             h5 Responsabilidad social corporativa
             p.mb-4.mb-lg-0 El propósito es lograr una imagen favorable de la marca a través de acciones no lucrativas que permitan conectar con el público, dando a conocer un beneficio a entidades que necesitan ayuda.
-          .col-10.col-sm-8.col-lg-5.col-xl-4
+          .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema2/18.png', alt='')
 
