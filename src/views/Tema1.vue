@@ -153,7 +153,7 @@
               img(src="@/assets/curso/tema1/16.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Ventas en línea
-            p.mb-0 Este tipo de ventas también se podrían llamar ventas por Internet o ventas , las cuales se llevan a cabo a través de la web, donde varias empresas venden sus productos; pero se debe tener en cuenta el tipo de consumidor al cual se dirigen y la manera de ofertar los productos o servicios.
+            p.mb-0 Este tipo de ventas también se podrían llamar ventas por Internet o ventas #[em online], las cuales se llevan a cabo a través de la web, donde varias empresas venden sus productos; pero se debe tener en cuenta el tipo de consumidor al cual se dirigen y la manera de ofertar los productos o servicios.
 
     Separador
     
@@ -318,8 +318,7 @@
                       .col-12
                         h5 #[em Google Ads]  
                         p.mb-0 Define dos maneras de anunciar:
-                        p.mb-0 1. La red de búsqueda
-                        p.mb-0 2. La red de visualización
+                        p.mb-0 1. La red de búsqueda y 2. La red de visualización.
                         p.mb-0 La primera ubica anuncios en la parte superior de la pantalla referentes a la palabra de búsqueda y la segunda hace referencia a los anuncios gráficos que aparecen en las páginas web visitadas.
 
     Separador
