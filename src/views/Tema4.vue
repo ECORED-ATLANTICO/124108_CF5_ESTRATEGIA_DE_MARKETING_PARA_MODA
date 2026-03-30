@@ -22,6 +22,7 @@
         .col-lg-10.col-xl-9
           p.mb-0.p-3.p-xl-0 La lealtad hacia una marca supone una conexión con las emociones y lo que esta representa para el cliente en su cotidianidad. Por lo tanto, para las empresas, el objetivo máximo es conseguir ese nivel de lealtad de sus clientes, lo cual se traduce en importantes ventajas. Según García y Gutiérrez (2013), es posible identificar dos componentes en la lealtad: el comportamental, que se puede reconocer con variables basadas en los comportamientos de compra medibles, como la frecuencia, el volumen, el tiempo de permanencia con una empresa, el tipo de productos adquiridos, entre otros; y el emocional, influenciado por el sentir del cliente y se reconoce en aspectos como el afecto, la actitud o el compromiso con una marca, de acuerdo con los valores que esta representa.
 
+
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-6.col-lg-4
         figure
@@ -43,6 +44,8 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema4/4.png", alt="")
         
+    p.mb-4.mb-lg-5.z-2 #[strong Según el portal web Creatiburón (2016), estos son algunos consejos para fidelizar clientes:]
+
     .row.justify-content-center.mb-3.mb-lg-5
       .d-none.d-lg-block.col-8.col-lg-4
         figure
@@ -102,7 +105,7 @@
               figure
                 img(src="@/assets/curso/tema4/11.png", alt="alt")
 
-          .row.align-items-center.justify-content-center(numero="8" titulo="Crear pensado en los clientes")
+          .row.align-items-center.justify-content-center(numero="8" titulo="Crear pensando en los clientes")
             .col-lg-8
               p.mb-4.mb-lg-0 Crear productos o servicios pensados en los clientes recurrentes es promover un producto con un plus extra para los clientes fieles, aumenta la confianza y lealtad de ellos al recibir beneficios por hacer parte de una comunidad alrededor de la marca.
             .col-6.col-lg-3
@@ -123,7 +126,7 @@
               figure
                 img(src="@/assets/curso/tema4/14.png", alt="alt")
           
-          .row.align-items-center.justify-content-center(numero="11" titulo="Usar el email <em>marketing</em>")
+          .row.align-items-center.justify-content-center(numero="11" titulo="Usar el <em>email marketing</em>")
             .col-lg-8
               p.mb-4.mb-lg-0 A través del correo electrónico y con la ayuda de las bases de datos, los clientes de una marca podrán estar enterados constantemente de todo lo que se relacione con la marca y que les compete a ellos, como promociones, bonos, combos, beneficios, etc.
             .col-6.col-lg-3
@@ -132,7 +135,7 @@
 
           .row.align-items-center.justify-content-center(numero="12" titulo="Base de datos de los clientes")
             .col-lg-8
-              p.mb-4.mb-lg-0 Tener una base de datos completa con la información de los clientes se constituye en una mina de oro en el marketing. Con el adecuado uso de estas, se puede llegar a los clientes potenciales de manera más efectiva.
+              p.mb-4.mb-lg-0 Tener una base de datos completa con la información de los clientes se constituye en una mina de oro en el #[em marketing]. Con el adecuado uso de estas, se puede llegar a los clientes potenciales de manera más efectiva.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/16.png", alt="alt")
@@ -151,7 +154,7 @@
           figure
             img(data-aos="fade-down-right", src="@/assets/curso/tema4/17.png", alt="")
         .col-lg-10.col-xl-9
-          p.mb-0.p-3.p-xl-0 La construcción de relaciones a largo plazo que se fundamenta en la fidelización de clientes significa un importante factor para conservar la comunidad creada alrededor de una marca. Con ello, como se ha mencionado en varias ocasiones y es preciso recordar, las empresas deben enfocarse en conocer a sus clientes, entender sus necesidades, celebrar sus gustos y compartir experiencias de valor para seguir creciendo en el mercado, desde sus clientes antiguos hacia la prospección de los que pueden llegar basados en la experiencia de los primeros. De esta forma, es importante llevar un registro y control de los datos de cada cliente, con lo cual las bases de datos constituyen un factor importante dentro del proceso de fidelización.alud, etc.
+          p.mb-0.p-3.p-xl-0 La construcción de relaciones a largo plazo que se fundamenta en la fidelización de clientes significa un importante factor para conservar la comunidad creada alrededor de una marca. Con ello, como se ha mencionado en varias ocasiones y es preciso recordar, las empresas deben enfocarse en conocer a sus clientes, entender sus necesidades, celebrar sus gustos y compartir experiencias de valor para seguir creciendo en el mercado, desde sus clientes antiguos hacia la prospección de los que pueden llegar basados en la experiencia de los primeros. De esta forma, es importante llevar un registro y control de los datos de cada cliente, con lo cual las bases de datos constituyen un factor importante dentro del proceso de fidelización.
 
     .row.justify-content-center.align-items-center.mb-3.z-2
       .col-md-6.col-lg-4
@@ -159,10 +162,10 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/18.png", alt="")
       .col-lg-8
         .p-4.bg-azul-medio
-          p.mb-0 Las bases de datos se constituyen principalmente por información del historial de ventas, datos demográficos y socioeconómicos, además de otros que la empresa puede definir como determinantes. Tal como lo afirman García y Gutiérrez (2013), “Este tipo de información ayuda a la empresa a conocer mejor a sus clientes, de modo que se puedan llevar a cabo acciones de marketing individualizadas” (p.135). Esto permitirá personalizar la información y dirigir las estrategias hacia los enfoques de los clientes, para lograr una ventaja competitiva frente a otras empresas del sector.
+          p.mb-0 Las bases de datos se constituyen principalmente por información del historial de ventas, datos demográficos y socioeconómicos, además de otros que la empresa puede definir como determinantes. Tal como lo afirman García y Gutiérrez (2013), “Este tipo de información ayuda a la empresa a conocer mejor a sus clientes, de modo que se puedan llevar a cabo acciones de #[em marketing] individualizadas” (p.135). Esto permitirá personalizar la información y dirigir las estrategias hacia los enfoques de los clientes, para lograr una ventaja competitiva frente a otras empresas del sector.
 
     .cajon.color-acento-contenido.p-4
-      p.mb-0 Las nuevas tecnologías han desempeñado un papel crucial para el manejo de la información en las bases de datos, generando mecanismos de automatización que, al conectar con herramientas como el email marketing, logran un alcance muy elevado de usuarios, lo cual optimiza recursos y supone beneficios para la empresa.
+      p.mb-0 Las nuevas tecnologías han desempeñado un papel crucial para el manejo de la información en las bases de datos, generando mecanismos de automatización que, al conectar con herramientas como el #[em email marketing], logran un alcance muy elevado de usuarios, lo cual optimiza recursos y supone beneficios para la empresa.
 
     Separador
 
@@ -224,14 +227,9 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Trazabilidad del servicio
 
-    figure.mb-5
-      .video.mb-2
-        iframe(iframe width="1255" height="706" src="https://www.youtube.com/embed/GDK-3pt7Pyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
-      figcaption Video: Trazabilidad del servicio
-
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
-        p.mb-4.mb-lg-0 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web Leadera Marketing Solutions (2018), el lead puede ubicarse en uno de los siguientes escenarios:
+        p.mb-4.mb-lg-0 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web Leadera #[em Marketing Solutions] (2018), el #[em lead] puede ubicarse en uno de los siguientes escenarios:
 
       .d-none.d-lg-block.col-sm-4.col-lg-4
         figure
@@ -247,9 +245,9 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/32.png", alt="")
       .col-lg-8
-        p Junto a lo anterior, también se debe determinar el canal más adecuado para que cada lead llegue hasta la venta; por ello, seguir un proceso de monitoreo es imprescindible. Aquí toman gran importancia las herramientas del entorno digital que se encargan de segmentar a los leads de acuerdo con su posición en el proceso de venta. A partir de los resultados obtenidos, es como la empresa encaminará sus esfuerzos para concretar la venta. Por ello, en este punto es tan importante automatizar e invertir en el software que mejor se acomode a las circunstancias de la empresa.
+        p Junto a lo anterior, también se debe determinar el canal más adecuado para que cada #[em lead] llegue hasta la venta; por ello, seguir un proceso de monitoreo es imprescindible. Aquí toman gran importancia las herramientas del entorno digital que se encargan de segmentar a los #[em leads] de acuerdo con su posición en el proceso de venta. A partir de los resultados obtenidos, es como la empresa encaminará sus esfuerzos para concretar la venta. Por ello, en este punto es tan importante automatizar e invertir en el software que mejor se acomode a las circunstancias de la empresa.
         .p-4.bg-azul-claro.rounded-4
-          p.mb-0 Hasta aquí se ha llegado en esta experiencia de aprendizaje que, más allá de brindar información, espera que haya una apropiación de ella para ser competentes y alcanzar los resultados de aprendizaje esperados. Es necesario mantener una actitud de curiosidad y aprendizaje a lo largo de la vida para ser un excelente colaborador o empresario en el marco del marketing digital.
+          p.mb-0 Hasta aquí se ha llegado en esta experiencia de aprendizaje que, más allá de brindar información, espera que haya una apropiación de ella para ser competentes y alcanzar los resultados de aprendizaje esperados. Es necesario mantener una actitud de curiosidad y aprendizaje a lo largo de la vida para ser un excelente colaborador o empresario en el marco del #[em marketing] digital.
 
 
 </template>

@@ -28,8 +28,8 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/2.png", alt="")
       .col-lg-9
         .p-3.bg-azul-claro.rounded-4.mb-3
-          p Con la llegada de Internet, fueron muchos los cambios evidenciados en el diario vivir. Uno de ellos, y puede que de los más importantes, fue la manera para comunicarnos a través de medios digitales. En estos nuevos entornos, se evidenció el uso de herramientas audiovisuales e interactivas, pero nunca se dejó de lado la comunicación escrita, identificada en los distintos portales web, páginas web, blogs y redes sociales. Sin embargo, es importante destacar que la comunicación escrita tuvo que adaptarse al nuevo entorno digital, donde, a diferencia de los medios tradicionales, reina la inmediatez y el afán de los usuarios. De esta forma es como surgen nuevas pautas para redactar en medios digitales, lo cual es imprescindible para toda persona que se desenvuelve en el mundo virtual.
-        p De acuerdo con la disposición del lector o consumidor de contenidos, la redacción en medios digitales debe manejar un modelo deductivo, donde en las primeras líneas se dé a conocer la idea principal, que se irá desglosando poco a poco a medida que avanza el texto. Según Pastrana (2014), en el artículo “Técnicas de redacción para medios online: ¿cómo escribir en Internet?”, se definen los siguientes consejos para la redacción online. Se recomienda revisarlos y discutir con los compañeros sobre lo que resulte más interesante.
+          p Con la llegada de Internet, fueron muchos los cambios evidenciados en el diario vivir. Uno de ellos, y puede que de los más importantes, fue la manera para comunicarnos a través de medios digitales. En estos nuevos entornos, se evidenció el uso de herramientas audiovisuales e interactivas, pero nunca se dejó de lado la comunicación escrita, identificada en los distintos portales web, páginas web, #[em blogs] y redes sociales. Sin embargo, es importante destacar que la comunicación escrita tuvo que adaptarse al nuevo entorno digital, donde, a diferencia de los medios tradicionales, reina la inmediatez y el afán de los usuarios. De esta forma es como surgen nuevas pautas para redactar en medios digitales, lo cual es imprescindible para toda persona que se desenvuelve en el mundo virtual.
+        p De acuerdo con la disposición del lector o consumidor de contenidos, la redacción en medios digitales debe manejar un modelo deductivo, donde en las primeras líneas se dé a conocer la idea principal, que se irá desglosando poco a poco a medida que avanza el texto. Según Pastrana (2014), en el artículo “Técnicas de redacción para medios #[em online]: ¿cómo escribir en Internet?”, se definen los siguientes consejos para la redacción #[em online]. Se recomienda revisarlos y discutir con los compañeros sobre lo que resulte más interesante.
 
     div.slider-wrapper.z-2.mb-6
       .bg-fullwidth
@@ -91,7 +91,7 @@
           figure
             img(data-aos="fade-down-right", src="@/assets/curso/tema2/10.png", alt="")
         .col-lg-10.col-xl-9
-          p.mb-0.p-3.p-xl-0 Los entornos digitales suponen el uso de nuevos dispositivos para visualizar contenidos. De esta manera, es importante tener en cuenta el público que consume los contenidos redactados en la web, además del canal utilizado, ya sea un teléfono celular, tableta o computador, y el medio para el cual se redacta, como un sitio web, una publicación para una red social o un artículo de blog. Al ser internet un universo bastante amplio, con infinidad de contenidos similares, debe haber un factor diferenciador que destaque entre los demás. De acuerdo con el portal web IMF Business School (2020), se proponen tres pasos para generar contenido diferenciador. Ellos son:
+          p.mb-0.p-3.p-xl-0 Los entornos digitales suponen el uso de nuevos dispositivos para visualizar contenidos. De esta manera, es importante tener en cuenta el público que consume los contenidos redactados en la web, además del canal utilizado, ya sea un teléfono celular, tableta o computador, y el medio para el cual se redacta, como un sitio web, una publicación para una red social o un artículo de #[em blog]. Al ser internet un universo bastante amplio, con infinidad de contenidos similares, debe haber un factor diferenciador que destaque entre los demás. De acuerdo con el portal web IMF Business School (2020), se proponen tres pasos para generar contenido diferenciador. Ellos son:
 
     .titulo-con-imagen.mb-5(data-aos="fade-right").z-2
       .titulo-con-imagen__fondo
@@ -126,7 +126,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/11.png", alt="")
       .col-lg-8
-        p Saber a qué público se dirige un texto, ya sea en un sitio web, un correo electrónico o una red social, determinará la manera en que aquel consume este contenido. Es necesario tener en cuenta aspectos claves, como el respeto al lector, emitiendo mensajes verdaderos que atraigan su interés; ser coherente con el trato, ya sea de usted o de tú; tratar de responder posibles preguntas del usuario en los textos o copys generados; pero, sobre todo, organizar los textos para que sean amenos de leer y entender. A nadie le gustan las lecturas complejas y mucho menos la mala ortografía....
+        p Saber a qué público se dirige un texto, ya sea en un sitio web, un correo electrónico o una red social, determinará la manera en que aquel consume este contenido. Es necesario tener en cuenta aspectos claves, como el respeto al lector, emitiendo mensajes verdaderos que atraigan su interés; ser coherente con el trato, ya sea de usted o de tú; tratar de responder posibles preguntas del usuario en los textos o #[em copys] generados; pero, sobre todo, organizar los textos para que sean amenos de leer y entender. A nadie le gustan las lecturas complejas y mucho menos la mala ortografía.
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -137,7 +137,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/12.png", alt="")
       .col-lg-8
-        p Según Soria (2016), el plan de medios se define como “el soporte que impulsa la difusión de la campaña de una marca para enviar un mensaje a los targets” (p.40); en otras palabras, es el proceso de comunicación que desarrolla una marca al emplear distintos medios para comunicar eficazmente sus contenidos, lo que a su vez debe suponer una optimización de recursos. Dejando a un lado los medios tradicionales, desde el entorno digital los distintos medios usados pueden ser: una página web, redes sociales, blogs con la combinación de elementos audiovisuales como videos, fotografías, transmisiones en vivo o podcasts; además de las diferentes plataformas que día a día se posicionan en diversos segmentos del mercado.
+        p Según Soria (2016), el plan de medios se define como “el soporte que impulsa la difusión de la campaña de una marca para enviar un mensaje a los targets” (p.40); en otras palabras, es el proceso de comunicación que desarrolla una marca al emplear distintos medios para comunicar eficazmente sus contenidos, lo que a su vez debe suponer una optimización de recursos. Dejando a un lado los medios tradicionales, desde el entorno digital los distintos medios usados pueden ser: una página web, redes sociales, #[em blogs] con la combinación de elementos audiovisuales como videos, fotografías, transmisiones en vivo o podcasts; además de las diferentes plataformas que día a día se posicionan en diversos segmentos del mercado.
         .p-3.bg-azul-claro.rounded-4
           p.mb-0 Las técnicas tradicionales que desarrolla una marca en la comunicación externa son adecuadas para utilizarse en el plan de medios adaptado al entorno digital (Soria, 2016), lo cual, al lograr posicionamiento, se traduce en el incremento de ventas y la fidelización de clientes. En el siguiente recurso de aprendizaje, se pueden explorar algunas de ellas.
           
@@ -167,6 +167,11 @@
           .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema2/18.png', alt='')
+    
+    p.mb-4 Según el portal web Hubspot, se definen tres razones para hacer uso de un plan de medios digitales. La primera se enfoca en generar conciencia de marca, al estar presente en los motores de búsqueda para que los clientes se conecten constantemente con la empresa. Otra es el aprovechamiento máximo de la inversión en los medios digitales, determinando cuáles son los canales más adecuados según el público objetivo para realizar campañas de #[em marketing] efectivas. Por último, está conseguir un seguimiento y llevar a cabo un monitoreo eficaz de las campañas, lo que supone una gran ventaja del entorno digital, ya que se puede medir todo lo que sea necesario. Esto permite direccionar la estrategia para buscar los mejores resultados.
+
+    .p-3.bg-acento-contenido-a5.rounded-4.mb-5
+      p.mb-0 #[strong A continuación, puede encontrar más información sobre el plan de medios digitales]
 
     .titulo-con-imagen.mb-5(data-aos="fade-right").z-2
       .titulo-con-imagen__fondo
@@ -178,7 +183,7 @@
         .col-lg-9.col-xl-9
           .p-3.p-xl-0
             p Según Soria (2016), toda empresa requiere de la estructura de un plan de medios que busque la consecución de los objetivos propuestos por esta, encontrando el camino más adecuado según sus necesidades e intereses. Con ello, se define una serie de fases.
-            p.mb-0 Un plan de medios determina las tácticas de marketing para una campaña de un bien o servicio.
+            p.mb-0 Un plan de medios determina las tácticas de #[em marketing] para una campaña de un bien o servicio.
         .d-none.d-lg-block.col-lg-3
           figure
             img(data-aos="fade-down-right", src="@/assets/curso/tema2/19.png", alt="")
@@ -236,34 +241,37 @@
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Definir tiempo
             p.mb-4.mb-5.text-center El plan de medios debe ser adaptado a un tiempo, de acuerdo con la investigación previa, los objetivos propuestos, el público y la estrategia definidos.
-       
+          .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+            .row.justify-content-center.mb-3
+              .col-6
+                img(src='@/assets/curso/tema2/29.png' alt='')
+            .factores-slider__title-wrapper  
+              h4.factores-slider__title.mb-4 Evaluar
+            p.mb-4.mb-5.text-center Se identifica si el plan logró los resultados esperados, se generan los informes y se determina qué aspectos se deben mejorar.
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+      .col-lg-7.col-xl-6
+        .bg-azul-claro.rounded-4.p-2.p-xl-0.mb-4.mb-lg-0
+          .row.justify-content-center.align-items-center
+            .col-4.col-lg-3
+              figure
+                img(data-aos="fade-down-right", src="@/assets/curso/tema2/27.png", alt="")
+            .col-8.col-lg-6
+              ul.lista-ul.custom-list.custom-list--checklist.mb-0
+                li.d-flex
+                  i.lista-ul__vineta 
+                  span #[strong ¿Qué inquietudes deja este tema?]
+                li.d-flex
+                  i.lista-ul__vineta 
+                  span #[strong ¿Qué se ha estudiado hasta ahora?]
+          
+      .col-lg-5.col-xl-4
+        figure
+          img(data-aos="fade-down-right", src="@/assets/curso/tema2/28.png", alt="")
+            
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
-        .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
-          h5.mb-0 Evaluar
-          p.mb-0 Se identifica si el plan logró los resultados esperados, se generan los informes y se determina qué aspectos se deben mejorar.
-
-      .row.justify-content-center.align-items-center
-        .col-lg-7.col-xl-6
-          .bg-azul-claro.rounded-4.p-2.p-xl-0.mb-4.mb-lg-0
-            .row.justify-content-center.align-items-center
-              .col-4.col-lg-3
-                figure
-                  img(data-aos="fade-down-right", src="@/assets/curso/tema2/27.png", alt="")
-              .col-8.col-lg-6
-                ul.lista-ul.custom-list.custom-list--checklist.mb-0
-                  li.d-flex
-                    i.lista-ul__vineta 
-                    span #[strong ¿Qué inquietudes deja este tema?]
-                  li.d-flex
-                    i.lista-ul__vineta 
-                    span #[strong ¿Qué se ha estudiado hasta ahora?]
-            
-        .col-lg-5.col-xl-4
-          figure
-            img(data-aos="fade-down-right", src="@/assets/curso/tema2/28.png", alt="")
-            
-
+        p Todo esto resulta muy útil cuando se planea y se implementa en el contexto laboral.
 
 
 </template>

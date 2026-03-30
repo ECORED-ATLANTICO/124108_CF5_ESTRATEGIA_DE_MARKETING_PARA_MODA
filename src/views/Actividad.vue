@@ -233,7 +233,7 @@ export default {
         {
           id: 10,
           texto:
-            'La venta offline se realiza únicamente mediante plataformas digitales.',
+            'La venta <em>offline</em> se realiza únicamente mediante plataformas digitales.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

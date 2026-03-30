@@ -41,7 +41,7 @@
               img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/4.png", alt="")
           .col-lg-7
             .p-5.bg-acento-contenido-a5
-              p.mb-0 Igualmente, se debe tener en cuenta que un vendedor es aquella cara visible en una empresa que se encarga de dar a conocer y negociar un producto o servicio con el usuario que desea adquirirlo, es decir, el cliente potencial o lead (RD Station). Además, el vendedor se encarga de atraer a más clientes haciendo uso de diversas herramientas y estrategias, para generar mayor cantidad de ventas.
+              p.mb-0 Igualmente, se debe tener en cuenta que un vendedor es aquella cara visible en una empresa que se encarga de dar a conocer y negociar un producto o servicio con el usuario que desea adquirirlo, es decir, el cliente potencial o #[em lead (RD Station)]. Además, el vendedor se encarga de atraer a más clientes haciendo uso de diversas herramientas y estrategias, para generar mayor cantidad de ventas.
         .p-4.bg-acento-botones-a5
           .row.justify-content-center.align-items-center
             .d-none.d-xl-block.col-xl-1
@@ -67,7 +67,6 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/7.png", alt="")
       .col-xl-8
-        p Continuando la idea de Ariño (2018), el interés de adquisición que surge en el usuario se genera por factores como la satisfacción del cliente con la experiencia de compra y el beneficio recibido. Del mismo modo, al generar un ciclo donde el vendedor asesora a un cliente con las necesidades que este presenta y el cliente se beneficia de la información obtenida, con respecto al producto o servicio que suple su determinada necesidad, ambas partes obtienen un beneficio y es como se establece un proceso sostenible de venta.
         .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
           p.mb-0 En las siguientes figuras se puede analizar el comportamiento de las ventas para emprendedores, lo que permite identificar tendencias, oportunidades de crecimiento y aspectos clave para la toma de decisiones estratégicas.
         .row.justify-content-center.align-items-stretch.custom-tarjeta-numerada.custom-tarjeta-numerada__mod.z-2
@@ -75,13 +74,13 @@
             .tarjeta-numerada.color-secundario.p-2.ps-5.h-100.bg-azul-claro.position-relative
               .tarjeta-numerada__numero
                 .h2 1
-              p.mb-0.text-bold.w-75 Cliente satisfecho
+              p.mb-0.text-bold.w-75 Cliente satisfecho.
               img.d-none.d-md-block.img-90.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema1/8.png", alt="")
           .col-sm-8.col-lg-6
             .tarjeta-numerada.color-secundario.p-2.ps-5.h-100.bg-azul-claro.position-relative
               .tarjeta-numerada__numero
                 .h2 2
-              p.mb-0.text-bold.w-75 Beneficios para la empresa
+              p.mb-0.text-bold.w-75 Beneficios para la empresa.
               img.d-none.d-md-block.img-90.position-absolute.icon-tarjeta-numerada(src="@/assets/curso/tema1/9.png", alt="")
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -104,16 +103,16 @@
         .row.align-items-center.mb-4
           .col-12.d-flex.align-items-center
             img.img-90(src='@/assets/curso/tema1/11.png', alt='')
-            h2.ms-2.mb-0.flex-grow-1 Ventas simples / self-service
+            h2.ms-2.mb-0.flex-grow-1 Ventas simples / #[em self-service]
 
-        p.mb-5 Este tipo de ventas se refiere a aquellas que se realizan en el momento, sin mucha complicación y antelación, ya que el cliente potencial, o lead, va por su cuenta a adquirir el producto o servicio. Aquí se puede mencionar el comercio electrónico o el retail.
+        p.mb-5 Este tipo de ventas se refiere a aquellas que se realizan en el momento, sin mucha complicación y antelación, ya que el cliente potencial, o #[em lead], va por su cuenta a adquirir el producto o servicio. Aquí se puede mencionar el comercio electrónico o el #[em retail].
         p #[strong Ejemplos]: ropa, alimentos, elementos de aseo, etc.
       .col-md.tarjeta.bg-terciario-t20.p-5
         .row.align-items-center.mb-4
           .col-12.d-flex.align-items-center
             img.img-90(src='@/assets/curso/tema1/12.png', alt='')
             h2.ms-2.mb-0.flex-grow-1 Ventas complejas
-        p.mb-5 Este tipo de ventas requiere de un proceso mucho más minucioso entre el vendedor y el cliente potencial, o lead, donde el primero sirve como consultor desde el primer acercamiento para la posible venta.
+        p.mb-5 Este tipo de ventas requiere de un proceso mucho más minucioso entre el vendedor y el cliente potencial, o #[em lead], donde el primero sirve como consultor desde el primer acercamiento para la posible venta.
         p #[strong Ejemplos]: venta de inmuebles, vehículos, software, etc.
 
     .cajon.color-secundario.p-4.mb-4.mb-lg-5
@@ -145,7 +144,7 @@
               img(src="@/assets/curso/tema1/15.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Venta #[em inbound]
-            p.mb-0 Este tipo de venta sigue el camino del #[em inbound marketing], al usar la estrategia de atraer a los clientes para que lleguen al proceso de compra y no se necesita salir a buscarlos. Se deben enviar mensajes persuasivos al enfoque de la venta, con el fin de que los usuarios interesados lleguen al punto que sea planteado. Es de destacar que para este tipo de venta es necesario el uso de un sitio web para la recepción de los leads o clientes potenciales.
+            p.mb-0 Este tipo de venta sigue el camino del #[em inbound marketing], al usar la estrategia de atraer a los clientes para que lleguen al proceso de compra y no se necesita salir a buscarlos. Se deben enviar mensajes persuasivos al enfoque de la venta, con el fin de que los usuarios interesados lleguen al punto que sea planteado. Es de destacar que para este tipo de venta es necesario el uso de un sitio web para la recepción de los #[em leads] o clientes potenciales.
 
       .col-xl-3.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt.rounded-4(data-aos="flip-left")
@@ -154,7 +153,7 @@
               img(src="@/assets/curso/tema1/16.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Ventas en línea
-            p.mb-0 Este tipo de ventas también se podrían llamar ventas por Internet o ventas online, las cuales se llevan a cabo a través de la web, donde varias empresas venden sus productos; pero se debe tener en cuenta el tipo de consumidor al cual se dirigen y la manera de ofertar los productos o servicios.
+            p.mb-0 Este tipo de ventas también se podrían llamar ventas por Internet o ventas , las cuales se llevan a cabo a través de la web, donde varias empresas venden sus productos; pero se debe tener en cuenta el tipo de consumidor al cual se dirigen y la manera de ofertar los productos o servicios.
 
     Separador
     
@@ -177,11 +176,11 @@
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Prospección")
             .col-auto
-              p.mb-0 Para iniciar el proceso de venta se hace preciso la investigación previa del público al que se desea llegar, identificando los leads, o clientes potenciales,   a partir de su condición de compra, el tipo de usuario y las necesidades a satisfacer. Luego se puede continuar con la definición de las estrategias de ventas. 
+              p.mb-0 Para iniciar el proceso de venta se hace preciso la investigación previa del público al que se desea llegar, identificando los #[em leads], o clientes potenciales,   a partir de su condición de compra, el tipo de usuario y las necesidades a satisfacer. Luego se puede continuar con la definición de las estrategias de ventas. 
 
-          .row(numero="2" titulo="Calificación de leads")
+          .row(numero="2" titulo="Calificación de <em>leads</em>")
             .col-auto
-              p.mb-0 Es importante tener en cuenta el buyer, persona que se ha definido para la marca o empresa, el cual se define como el modelo de cliente que esta tendría. Este ejercicio ayuda a definir la mejor manera de comunicarse y adaptar los productos o servicios para satisfacer las necesidades de los clientes.
+              p.mb-0 Es importante tener en cuenta el #[em buyer], persona que se ha definido para la marca o empresa, el cual se define como el modelo de cliente que esta tendría. Este ejercicio ayuda a definir la mejor manera de comunicarse y adaptar los productos o servicios para satisfacer las necesidades de los clientes.
 
           .row(numero="3" titulo="Preparación")
             .col-auto
@@ -207,7 +206,7 @@
                     span #[strong Deseo de compra]: la conversación debe llevar al deseo de la compra por parte del cliente. 
                   li.d-flex
                     i.lista-ul__vineta 
-                    span #[strong Acción]: Se realiza la venta. 
+                    span #[strong Acción]: se realiza la venta. 
 
           .row(numero="6" titulo="Cierre de venta ")
             .col-auto
@@ -226,13 +225,13 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/19.png", alt="")
       .col-lg-8
-        p A partir de la estrategia de marketing adoptada es como se define el canal de venta adecuado para que una empresa promocione un producto o servicio y este, a su vez, llegue a definirse como venta. Según el portal web Hotmart (2018), el canal de venta se define como el medio por el cual el cliente tiene contacto con los productos o servicios que una empresa ofrece.
+        p A partir de la estrategia de #[em marketing] adoptada es como se define el canal de venta adecuado para que una empresa promocione un producto o servicio y este, a su vez, llegue a definirse como venta. Según el portal web Hotmart (2018), el canal de venta se define como el medio por el cual el cliente tiene contacto con los productos o servicios que una empresa ofrece.
         .p-3.bg-azul-claro.rounded-4
           p Dentro de los canales de venta, se tienen en cuenta las plataformas y herramientas utilizadas para acercar al cliente con la oferta de una empresa, donde se encuentran implícitos los canales de promoción para publicitar un producto y lograr que este conecte con el cliente para lograr la venta. Cada empresa puede definir el canal o los canales de ventas que más se ajusten, dependiendo de lo que ofrece, el público al que se dirige, las oportunidades en el mercado, entre otros factores; al entender estas nociones básicas se puede definir qué canal será el más adecuado.
           p.mb-0 De acuerdo con el portal web Hotmart (2018), los canales de venta están determinados en dos grandes grupos, dependiendo del medio utilizado. Se pueden observar en el siguiente gráfico:
           
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-medio")
-      .row(titulo="<strong>Venta offline</strong>: son aquellos que no operan con un sistema web.").justify-content-center.align-items-center
+      .row(titulo="<strong>Venta <em>offline</em></strong>: son aquellos que no operan con un sistema web.").justify-content-center.align-items-center
         .col-12
           .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.custom-avatar.z-2.pt-4
             .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
@@ -262,7 +261,7 @@
                       .col-12
                         h5 #[em Telemarketing]  
                         p Las llamadas telefónicas son el medio principal para llevar a cabo una venta.
-      .row(titulo="Venta online: son aquellos que se soportan en la Internet.").justify-content-center.align-items-center
+      .row(titulo="Venta <em>online</em>: son aquellos que se soportan en la Internet.").justify-content-center.align-items-center
         .col-12
           .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.custom-avatar.z-2.pt-4
             .col-10.col-sm-6.col-lg-4.mb-4(data-aos="fade-right")
@@ -291,7 +290,7 @@
                     .row.justify-content-center.mb-3
                       .col-12
                         h5 Programas de afiliados  
-                        p Dichos programas se encargan de promover productos o servicios de terceros en sus sitios web, blog o redes sociales, con el propósito de recibir comisiones.
+                        p Dichos programas se encargan de promover productos o servicios de terceros en sus sitios web, #[em blog] o redes sociales, con el propósito de recibir comisiones.
             .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0(data-aos="fade-right")
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/26.png' alt='')
@@ -317,15 +316,15 @@
                   .p-2
                     .row.justify-content-center.mb-3
                       .col-12
-                        h5 #[em Google Adwords]  
+                        h5 #[em Google Ads]  
                         p.mb-0 Define dos maneras de anunciar:
-                        p.mb-0 La red de búsqueda
-                        p.mb-0 La red de visualización
+                        p.mb-0 1. La red de búsqueda
+                        p.mb-0 2. La red de visualización
                         p.mb-0 La primera ubica anuncios en la parte superior de la pantalla referentes a la palabra de búsqueda y la segunda hace referencia a los anuncios gráficos que aparecen en las páginas web visitadas.
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.3 Social #[em selling]
+      h2 1.3 #[em Social selling]
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-6.col-lg-4
@@ -336,13 +335,13 @@
         .p-3.bg-primario-p10.rounded-4.mb-3
           .row.align-items-center
             .col-xl-11
-              p.mb-0 Según Contreras (2019), el social #[em selling] se define como el uso de las redes sociales para llevar a cabo una venta, al encontrar e interactuar con los prospectos comerciales. Esta estrategia ha surgido por el incremento en el uso de las redes sociales, las cuales permiten recopilar datos de los clientes potenciales, además de interactuar con ellos de manera personalizada, conociendo las necesidades de los usuarios, y, de esta manera, buscar el momento preciso para dar a entender que se puede ofrecer una solución a dicha necesidad.
+              p.mb-0 Según Contreras (2019), el #[em social selling] se define como el uso de las redes sociales para llevar a cabo una venta, al encontrar e interactuar con los prospectos comerciales. Esta estrategia ha surgido por el incremento en el uso de las redes sociales, las cuales permiten recopilar datos de los clientes potenciales, además de interactuar con ellos de manera personalizada, conociendo las necesidades de los usuarios, y, de esta manera, buscar el momento preciso para dar a entender que se puede ofrecer una solución a dicha necesidad.
             .col-lg-1.d-none.d-xl-block
               figure
                 img(data-aos="fade-down-right", src="@/assets/curso/tema1/30.png", alt="")
-        p Al hacer uso del social selling se obtiene una ventaja significativa frente a las estrategias tradicionales, con el enfoque en el conocimiento del cliente, adaptando la marca y tono de comunicación a sus gustos, generando conexiones duraderas que vayan más allá de una venta y se conviertan en una experiencia de largo alcance.    
+        p Al hacer uso del #[em social selling] se obtiene una ventaja significativa frente a las estrategias tradicionales, con el enfoque en el conocimiento del cliente, adaptando la marca y tono de comunicación a sus gustos, generando conexiones duraderas que vayan más allá de una venta y se conviertan en una experiencia de largo alcance.    
     .p-4.bg-primario-p10.rounded-4.mb-4.mb-lg-5
-      p.mb-0.text-center #[strong Para hacer uso del social selling, estos son los pasos a tener presente y que pueden ser útiles en el contexto profesional:]
+      p.mb-0.text-center #[strong Para hacer uso del #[em social selling], estos son los pasos a tener presente y que pueden ser útiles en el contexto profesional:]
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
@@ -373,7 +372,7 @@
             p.mb-0 El tercer paso, es realizar la venta. El cliente debe tener la oportunidad de enviar una reseña acerca del producto o servicio adquirido, lo cual permitirá que otros usuarios se conviertan en posibles clientes a partir de la experiencia de alguien que ya hizo uso de dicho producto.
     
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
-      p.mb-0 Con todo esto, es como el social selling pisa fuerte en las ventas digitales, con la gran afluencia de usuarios en redes sociales, donde la creatividad y asertividad de las empresas define el éxito de su conexión con el público.
+      p.mb-0 Con todo esto, es como el #[em social selling] pisa fuerte en las ventas digitales, con la gran afluencia de usuarios en redes sociales, donde la creatividad y asertividad de las empresas define el éxito de su conexión con el público.
 </template>
 
 <script>
