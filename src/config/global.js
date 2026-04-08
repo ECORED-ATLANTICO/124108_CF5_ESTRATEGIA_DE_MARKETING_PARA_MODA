@@ -212,7 +212,7 @@ export default {
     {
       referencia:
         'Leadera Marketing Solutions. (2018, 19 de octubre). <em>Sistemas para mantener la trazabilidad de leads.</em>',
-      link: 'https://www.leaderasolutions.com/blog/trazabilidad-de-leads',
+      link: '',
     },
     {
       referencia:
@@ -228,24 +228,22 @@ export default {
     {
       referencia:
         'RD Station. (s.f.). <em>Ventas: estrategias, técnicas y todo lo que necesitas saber.</em>',
-      link: 'https://www.rdstation.com/mx/ventas/',
+      link: '',
     },
     {
       referencia:
         'Soria, M. (2016). <em>Plan de medios de comunicación e Internet</em> (1.ª ed.). CEP.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/51054?page=43 ',
+      link: '',
     },
     {
       referencia:
         'Tenebit. (2020, 7 de enero). <em>3 Pilares para implementar un CRM exitoso en tu empresa.</em>',
-      link:
-        'https://www.tenebit.com.co/conoce-los-3-pilares-fundamentales-al-momento-de-implementar-una-estrategia-crm-exitosa/',
+      link: '',
     },
     {
       referencia:
         'Zendesk. (2020, 29 de septiembre). <em>Conoce las 7 etapas del proceso de ventas.</em>',
-      link: 'https://www.zendesk.com.mx/blog/etapas-proceso-ventas/',
+      link: '',
     },
   ],
   creditos: [

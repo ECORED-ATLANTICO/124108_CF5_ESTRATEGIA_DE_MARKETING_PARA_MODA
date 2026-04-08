@@ -317,8 +317,7 @@
                     .row.justify-content-center.mb-3
                       .col-12
                         h5 #[em Google Ads]  
-                        p.mb-0 Define dos maneras de anunciar:
-                        p.mb-0 1. La red de búsqueda y 2. La red de visualización.
+                        p.mb-0 Define dos maneras de anunciar: 1. La red de búsqueda y 2. La red de visualización.
                         p.mb-0 La primera ubica anuncios en la parte superior de la pantalla referentes a la palabra de búsqueda y la segunda hace referencia a los anuncios gráficos que aparecen en las páginas web visitadas.
 
     Separador
