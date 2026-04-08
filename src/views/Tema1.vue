@@ -264,7 +264,7 @@
       .row(titulo="Venta <em>online</em>: son aquellos que se soportan en la Internet.").justify-content-center.align-items-center
         .col-12
           .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.custom-avatar.z-2.pt-4
-            .col-10.col-sm-6.col-lg-4.mb-4(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/23.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -273,7 +273,7 @@
                       .col-12
                         h5 #[em Marketplace] 
                         p Se define como un centro comercial virtual, siendo el lugar donde varias marcas pueden ofertar su producto en un solo lugar.
-            .col-10.col-sm-6.col-lg-4.mb-4(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/24.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -282,7 +282,7 @@
                       .col-12
                         h5 #[em E-commerce]  
                         p Este es un lugar para comercializar productos de una sola marca, no comparte espacio con su competencia.
-            .col-10.col-sm-6.col-lg-4.mb-4(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/25.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -291,7 +291,7 @@
                       .col-12
                         h5 Programas de afiliados  
                         p Dichos programas se encargan de promover productos o servicios de terceros en sus sitios web, #[em blog] o redes sociales, con el propósito de recibir comisiones.
-            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/26.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -300,7 +300,7 @@
                       .col-12
                         h5 #[em Google Shopping] 
                         p Este permite la visualización del producto a ofrecer en Google con la imagen y precio determinados.
-            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/27.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
@@ -309,7 +309,7 @@
                       .col-12
                         h5 Redes sociales
                         p Este es un lugar para comercializar productos de una sola marca, no comparte espacio con su competencia.
-            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0(data-aos="fade-right")
+            .col-10.col-sm-6.col-lg-4.mb-4.mb-xl-0
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/28.png' alt='')
                 .tarjeta.bg-azul-claro.w-100.border-2.border-secundario
