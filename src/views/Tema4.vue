@@ -227,6 +227,11 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Trazabilidad del servicio
 
+    figure.mb-5
+      .video.mb-2
+        iframe(width="1344" height="756" src="https://www.youtube.com/embed/KpzR6583dcY" title="Trazabilidad del servicio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)    
+      figcaption Video: trazabilidad del servicio
+
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
         p.mb-4.mb-lg-0 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web Leadera #[em Marketing Solutions] (2018), el #[em lead] puede ubicarse en uno de los siguientes escenarios:

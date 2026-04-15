@@ -16,8 +16,8 @@
 
     figure.mb-5
       .video.mb-2
-        iframe(width="1255" height="706" src="https://www.youtube.com/embed/VXQJ7DGmkio" title="Comunicacion acertiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
-      figcaption Video: Comunicación acertiva
+        iframe(width="1470" height="827" src="https://www.youtube.com/embed/lG7Q9tT4Dr0" title="Comunicación asertiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)    
+      figcaption Video: comunicación acertiva
 
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
