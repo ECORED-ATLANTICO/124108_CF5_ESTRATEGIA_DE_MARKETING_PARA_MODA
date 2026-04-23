@@ -47,7 +47,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Social selling ',
+            titulo: '<em>Social selling</em>',
             hash: 't_1_3',
           },
         ],
@@ -254,7 +254,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',

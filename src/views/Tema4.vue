@@ -184,7 +184,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.col-xl-6
             h5 Determinar la tecnología adecuada
-            p.mb-4.mb-lg-0 Al tener en cuenta factores económicos, magnitud de la empresa y público objetivo, se puede determinar el tipo de software a utilizarse para desarrollar la base de datos.
+            p.mb-4.mb-lg-0 Al tener en cuenta factores económicos, magnitud de la empresa y público objetivo, se puede determinar el tipo de #[em software] a utilizarse para desarrollar la base de datos.
           .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema4/25.png', alt='')
@@ -227,11 +227,6 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Trazabilidad del servicio
 
-    figure.mb-5
-      .video.mb-2
-        iframe(width="1344" height="756" src="https://www.youtube.com/embed/KpzR6583dcY" title="Trazabilidad del servicio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)    
-      figcaption Video: trazabilidad del servicio
-
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
         p.mb-4.mb-lg-0 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web Leadera #[em Marketing Solutions] (2018), el #[em lead] puede ubicarse en uno de los siguientes escenarios:
@@ -250,7 +245,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/32.png", alt="")
       .col-lg-8
-        p Junto a lo anterior, también se debe determinar el canal más adecuado para que cada #[em lead] llegue hasta la venta; por ello, seguir un proceso de monitoreo es imprescindible. Aquí toman gran importancia las herramientas del entorno digital que se encargan de segmentar a los #[em leads] de acuerdo con su posición en el proceso de venta. A partir de los resultados obtenidos, es como la empresa encaminará sus esfuerzos para concretar la venta. Por ello, en este punto es tan importante automatizar e invertir en el software que mejor se acomode a las circunstancias de la empresa.
+        p Junto a lo anterior, también se debe determinar el canal más adecuado para que cada #[em lead] llegue hasta la venta; por ello, seguir un proceso de monitoreo es imprescindible. Aquí toman gran importancia las herramientas del entorno digital que se encargan de segmentar a los #[em leads] de acuerdo con su posición en el proceso de venta. A partir de los resultados obtenidos, es como la empresa encaminará sus esfuerzos para concretar la venta. Por ello, en este punto es tan importante automatizar e invertir en el #[em software] que mejor se acomode a las circunstancias de la empresa.
         .p-4.bg-azul-claro.rounded-4
           p.mb-0 Hasta aquí se ha llegado en esta experiencia de aprendizaje que, más allá de brindar información, espera que haya una apropiación de ella para ser competentes y alcanzar los resultados de aprendizaje esperados. Es necesario mantener una actitud de curiosidad y aprendizaje a lo largo de la vida para ser un excelente colaborador o empresario en el marco del #[em marketing] digital.
 

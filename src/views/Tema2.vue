@@ -137,7 +137,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/12.png", alt="")
       .col-lg-8
-        p Según Soria (2016), el plan de medios se define como “el soporte que impulsa la difusión de la campaña de una marca para enviar un mensaje a los targets” (p.40); en otras palabras, es el proceso de comunicación que desarrolla una marca al emplear distintos medios para comunicar eficazmente sus contenidos, lo que a su vez debe suponer una optimización de recursos. Dejando a un lado los medios tradicionales, desde el entorno digital los distintos medios usados pueden ser: una página web, redes sociales, #[em blogs] con la combinación de elementos audiovisuales como videos, fotografías, transmisiones en vivo o podcasts; además de las diferentes plataformas que día a día se posicionan en diversos segmentos del mercado.
+        p Según Soria (2016), el plan de medios se define como “el soporte que impulsa la difusión de la campaña de una marca para enviar un mensaje a los #[em targets]” (p.40); en otras palabras, es el proceso de comunicación que desarrolla una marca al emplear distintos medios para comunicar eficazmente sus contenidos, lo que a su vez debe suponer una optimización de recursos. Dejando a un lado los medios tradicionales, desde el entorno digital los distintos medios usados pueden ser: una página web, redes sociales, #[em blogs] con la combinación de elementos audiovisuales como videos, fotografías, transmisiones en vivo o #[em podcasts]; además de las diferentes plataformas que día a día se posicionan en diversos segmentos del mercado.
         .p-3.bg-azul-claro.rounded-4
           p.mb-0 Las técnicas tradicionales que desarrolla una marca en la comunicación externa son adecuadas para utilizarse en el plan de medios adaptado al entorno digital (Soria, 2016), lo cual, al lograr posicionamiento, se traduce en el incremento de ventas y la fidelización de clientes. En el siguiente recurso de aprendizaje, se pueden explorar algunas de ellas.
           
@@ -191,7 +191,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right").z-2
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.png")
-        h4.titulo-con-imagen__texto ¿Qué se debe considerar al desarrollar un plan de medios digitales?
+        h4.titulo-con-imagen__texto ¿Qué se debe considerar al desarrollar un plan de medios digitales? A continuación, se detallan algunas ideas.
 
     .row.justify-content-center.align-items-center.factores-slider.z-2.mb-4.mb-lg-5
       .d-none.d-xl-block.col-lg-4

@@ -13,7 +13,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="La imagen presenta un esquema sobre la interacción con clientes en el proceso de venta, organizado en cuatro ejes principales: primero, los fundamentos de la venta, que incluyen el proceso, los canales y el social selling; segundo, la comunicación asertiva con clientes, enfocada en la redacción y planificación de medios digitales; tercero, la introducción al CRM como herramienta de gestión; y cuarto, la fidelización y mantenimiento del servicio al cliente en redes sociales, mediante la implementación, generación de bases de datos y trazabilidad del servicio.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

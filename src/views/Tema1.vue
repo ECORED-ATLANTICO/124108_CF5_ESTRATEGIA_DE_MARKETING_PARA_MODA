@@ -113,7 +113,7 @@
             img.img-90(src='@/assets/curso/tema1/12.png', alt='')
             h2.ms-2.mb-0.flex-grow-1 Ventas complejas
         p.mb-5 Este tipo de ventas requiere de un proceso mucho más minucioso entre el vendedor y el cliente potencial, o #[em lead], donde el primero sirve como consultor desde el primer acercamiento para la posible venta.
-        p #[strong Ejemplos]: venta de inmuebles, vehículos, software, etc.
+        p #[strong Ejemplos]: venta de inmuebles, vehículos, #[em software], etc.
 
     .cajon.color-secundario.p-4.mb-4.mb-lg-5
       p.mb-0 De acuerdo con las ventas simples y complejas antes mencionadas, y teniendo en cuenta los diferentes canales utilizados y diversos factores, según Muente (2018), se determinan los principales tipos de venta. Se recomienda revisar la siguiente información para poder adoptar la que pueda servir en un contexto laboral específico. ¿Cuál seleccionaría?
