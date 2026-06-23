@@ -12,7 +12,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/1.png", alt="")
       .col-lg-8
         .p-4.bg-primario-p10.rounded-4
-          p.mb-0 La comunicación asertiva se enfoca en expresar claramente un mensaje, de manera simple y oportuna, teniendo presente la inteligencia emocional para saber cómo responder de la mejor manera ante cualquier situación que se puede presentar. Con los clientes es muy importante brindar un servicio de calidad, interesándose por las necesidades y dudas que pueden presentar. Esto genera confianza para acercarse a la marca o empresa. En el siguiente recurso educativo se puede hallar una información que se ha seleccionado para poder practicar en contexto. Adelante.
+          p.mb-0 La comunicación asertiva se enfoca en expresar claramente un mensaje, de manera simple y oportuna, teniendo presente la inteligencia emocional para saber cómo responder de la mejor manera ante cualquier situación que se puede presentar. Con los clientes es muy importante brindar un servicio de calidad, interesándose por las necesidades y dudas que pueden presentar. Esto genera confianza para acercarse a la marca o empresa. En el siguiente recurso educativo encontrará información seleccionada para fortalecer sus conocimientos y ponerlos en práctica. ¡Adelante!
 
     figure.mb-5
       .video.mb-2
@@ -41,49 +41,49 @@
               p.mb-4.mb-lg-0 Hacer uso de frases breves y párrafos cortos con toda la fuerza de lo que se desea comunicar.
             .col-sm-8.col-lg-4
               figure
-                img(src='@/assets/curso/tema2/3.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/3.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 Estructurar la noticia
-              p.mb-4.mb-lg-0 Organizar el texto en titulares y bloques, que le den contexto al texto redactado.
+              p.mb-4.mb-lg-0 Organizar el texto en titulares y bloques que le den contexto al texto redactado.
             .col-sm-8.col-lg-4
               figure
-                img(src='@/assets/curso/tema2/4.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/4.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 La información en función de cómo la leemos
               p.mb-4.mb-lg-0 Entender qué tipo de usuarios van a leer el texto y redactar en función de ellos.
             .col-sm-8.col-lg-4
               figure
-                img(src='@/assets/curso/tema2/5.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/5.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 Titular
               p.mb-4.mb-lg-0 Este debe ser llamativo, que genere interés en la lectura, pensando en palabras claves para ser buscado en Internet.
             .col-sm-8.col-lg-4
               figure
-                img(src='@/assets/curso/tema2/6.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/6.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 SEO
               p.mb-4.mb-lg-0 Definir palabras clave para el posicionamiento en motores de búsqueda.
             .col-sm-8.col-lg-4
               figure
-                img(src='@/assets/curso/tema2/7.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/7.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 Imágenes
               p.mb-4.mb-lg-0 Al incluir elementos gráficos, se atrae mayor atención del lector.
             .col-sm-8.col-lg-4
               figure
-                img(src='@/assets/curso/tema2/8.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/8.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 Enlaces
               p.mb-4.mb-lg-0 Vincular datos complementarios genera confianza en el lector.
             .col-sm-8.col-lg-4
               figure
-                img(src='@/assets/curso/tema2/9.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/9.png', alt='')
 
     .bg-primario-p10.p-2.mb-4.mb-lg-5.rounded-4
       .row.justify-content-center.align-items-center
@@ -171,7 +171,7 @@
     p.mb-4 Según el portal web Hubspot, se definen tres razones para hacer uso de un plan de medios digitales. La primera se enfoca en generar conciencia de marca, al estar presente en los motores de búsqueda para que los clientes se conecten constantemente con la empresa. Otra es el aprovechamiento máximo de la inversión en los medios digitales, determinando cuáles son los canales más adecuados según el público objetivo para realizar campañas de #[em marketing] efectivas. Por último, está conseguir un seguimiento y llevar a cabo un monitoreo eficaz de las campañas, lo que supone una gran ventaja del entorno digital, ya que se puede medir todo lo que sea necesario. Esto permite direccionar la estrategia para buscar los mejores resultados.
 
     .p-3.bg-acento-contenido-a5.rounded-4.mb-5
-      p.mb-0 #[strong A continuación, puede encontrar más información sobre el plan de medios digitales]
+      p.mb-0 #[strong A continuación, puede encontrar más información sobre el plan de medios digitales.]
 
     .titulo-con-imagen.mb-5(data-aos="fade-right").z-2
       .titulo-con-imagen__fondo
@@ -196,7 +196,7 @@
     .row.justify-content-center.align-items-center.factores-slider.z-2.mb-4.mb-lg-5
       .d-none.d-xl-block.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/20.png", alt="Imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/20.png", alt="")
       .col-xl-8
         SlyderF(columnas="col-lg-6")
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
@@ -219,7 +219,7 @@
                 img(src='@/assets/curso/tema2/23.png' alt='')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Determinar público o #[em target]
-            p.mb-4.mb-5.text-center Reconocer qué tipo de clientes se quiere atraer
+            p.mb-4.mb-5.text-center Reconocer qué tipo de clientes se quiere atraer.
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
               .col-6

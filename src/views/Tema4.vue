@@ -7,7 +7,7 @@
         span 4
       h1 Fidelización y mantenimiento de servicio al cliente en las redes sociales
 
-    img(data-aos="fade-up")(src="@/assets/curso/tema4/1.png", alt="Imagen decorativa")
+    img(data-aos="fade-up")(src="@/assets/curso/tema4/1.png", alt="")
 
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
@@ -49,7 +49,7 @@
     .row.justify-content-center.mb-3.mb-lg-5
       .d-none.d-lg-block.col-8.col-lg-4
         figure
-          img(src="@/assets/curso/tema4/33.png", alt="alt")
+          img(src="@/assets/curso/tema4/33.png", alt="")
       .col-lg-8
         LineaTiempoD.color-acento-botones
           .row.align-items-center.justify-content-center(numero="1" titulo="Conectar con los clientes")
@@ -57,43 +57,43 @@
               p.mb-4.mb-lg-0 Conocer a los clientes y trabajar para que se sientan a gusto con la marca.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/5.png", alt="alt")
+                img(src="@/assets/curso/tema4/5.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="2" titulo="Crear una experiencia")
             .col-lg-8
               p.mb-4.mb-lg-0 Esta es una manera en que el cliente asocia la marca con buenas experiencias que le ofrecen un valor agregado.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/6.png", alt="alt")
+                img(src="@/assets/curso/tema4/6.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="3" titulo="Mantener el contacto")
             .col-lg-8
               p.mb-4.mb-lg-0 Entender que en algún momento se necesitará de los clientes, como ellos de la marca. No debes perderlos de vista.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/7.png", alt="alt")
+                img(src="@/assets/curso/tema4/7.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="4" titulo="Personalizar la comunicación")
             .col-lg-8
-              p No hay nada que genere más fastidio que una comunicación robótica, donde el cliente sabe que no obtiene respuesta de un ser humano sino de una máquina que trata a todos por igual.
+              p No hay nada que genere más fastidio que una comunicación robótica, donde el cliente sabe que no obtiene respuesta de un ser humano, sino de una máquina que trata a todos por igual.
               p.mb-4.mb-lg-0 La comunicación personalizada conecta aún más con el cliente, haciendo que este se sienta importante y reconocido con aquella marca en que ha invertido tiempo y dinero.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/8.png", alt="alt")
+                img(src="@/assets/curso/tema4/8.png", alt="")
           
           .row.align-items-center.justify-content-center(numero="5" titulo="El <em>feedback</em> de los clientes")
             .col-lg-8
               p.mb-4.mb-lg-0 Prepararse para escuchar el <em>feedback</em> de los clientes. De nada sirve una comunicación que no tiene retroalimentación. Por ello, escuchar las experiencias o sugerencias de los clientes es clave para la fidelización.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/9.png", alt="alt")
+                img(src="@/assets/curso/tema4/9.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="6" titulo="Pedir recomendaciones")
             .col-lg-8
               p.mb-4.mb-lg-0 Las reseñas que surgen de los clientes son una excelente carta de recomendación para la fidelización.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/10.png", alt="alt")
+                img(src="@/assets/curso/tema4/10.png", alt="")
 
     .row.justify-content-center
       .col-lg-8
@@ -103,46 +103,46 @@
               p.mb-4.mb-lg-0 La fidelidad del cliente depende mucho de la forma de hacer las cosas y transmitir un mensaje. El destacarse entre la competencia será otro factor que influya para retener a los clientes.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/11.png", alt="alt")
+                img(src="@/assets/curso/tema4/11.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="8" titulo="Crear pensando en los clientes")
             .col-lg-8
-              p.mb-4.mb-lg-0 Crear productos o servicios pensados en los clientes recurrentes es promover un producto con un plus extra para los clientes fieles, aumenta la confianza y lealtad de ellos al recibir beneficios por hacer parte de una comunidad alrededor de la marca.
+              p.mb-4.mb-lg-0 Crear productos o servicios pensados en los clientes recurrentes es promover un producto con un plus extra para los clientes fieles; aumenta la confianza y lealtad de ellos al recibir beneficios por hacer parte de una comunidad alrededor de la marca.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/12.png", alt="alt")
+                img(src="@/assets/curso/tema4/12.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="9" titulo="Anticiparse a las necesidades")
             .col-lg-8
               p.mb-4.mb-lg-0 Al conocer a los clientes, es posible que una marca logre ver más allá de lo que estos buscan para encontrar lo que podrían necesitar, siendo otra oportunidad de lograr fidelización.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/13.png", alt="alt")
+                img(src="@/assets/curso/tema4/13.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="10" titulo="Crear protocolos de seguimiento")
             .col-lg-8
               p.mb-4.mb-lg-0 Con el propósito de hacer seguimiento, se debe desarrollar una guía para monitorear la actividad de los clientes y organizar interacciones precisas con ellos.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/14.png", alt="alt")
+                img(src="@/assets/curso/tema4/14.png", alt="")
           
           .row.align-items-center.justify-content-center(numero="11" titulo="Usar el <em>email marketing</em>")
             .col-lg-8
               p.mb-4.mb-lg-0 A través del correo electrónico y con la ayuda de las bases de datos, los clientes de una marca podrán estar enterados constantemente de todo lo que se relacione con la marca y que les compete a ellos, como promociones, bonos, combos, beneficios, etc.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/15.png", alt="alt")
+                img(src="@/assets/curso/tema4/15.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="12" titulo="Base de datos de los clientes")
             .col-lg-8
               p.mb-4.mb-lg-0 Tener una base de datos completa con la información de los clientes se constituye en una mina de oro en el #[em marketing]. Con el adecuado uso de estas, se puede llegar a los clientes potenciales de manera más efectiva.
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema4/16.png", alt="alt")
+                img(src="@/assets/curso/tema4/16.png", alt="")
             
       .d-none.d-lg-block.col-8.col-lg-4
         figure
-          img(src="@/assets/curso/tema4/34.png", alt="alt")
+          img(src="@/assets/curso/tema4/34.png", alt="")
 
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -172,7 +172,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Generación de una base de datos
 
-    img(data-aos="fade-up")(src="@/assets/curso/tema4/19.png", alt="Imagen decorativa")
+    img(data-aos="fade-up")(src="@/assets/curso/tema4/19.png", alt="")
 
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
@@ -192,7 +192,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.col-xl-6
             h5 Determinar la información requerida
-            p Los datos recopilados pueden ser entregados por el cliente o pueden ser supuestos por la empresa enfocándose en el comportamiento rutinario de este al conectar con la empresa.
+            p Los datos recopilados pueden ser entregados por el cliente o pueden ser supuestos por la empresa, enfocándose en el comportamiento rutinario de este al conectar con la empresa.
             p.mb-4.mb-lg-0 Entre la información importante, se encuentran los datos personales, datos de contacto, datos demográficos, datos de compras, visitas a puntos de venta o detalles de los pagos, entre otros.
           .col-sm-8.col-lg-5.col-xl-4
             figure
@@ -209,7 +209,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.col-xl-6
             h5 Utilización de la base de datos
-            p.mb-4.mb-lg-0 De acuerdo con la información recolectada, las bases de datos permiten conocer al cliente para ofrecerle un servicio personalizado y diferenciador le que genere satisfacción.
+            p.mb-4.mb-lg-0 De acuerdo con la información recolectada, las bases de datos permiten conocer al cliente para ofrecerle un servicio personalizado y diferenciador que le genere satisfacción.
           .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema4/28.png', alt='')
@@ -229,7 +229,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
-        p.mb-4.mb-lg-0 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web Leadera #[em Marketing Solutions] (2018), el #[em lead] puede ubicarse en uno de los siguientes escenarios:
+        p.mb-4.mb-lg-0 Dentro de la fidelización de clientes inherente al servicio al cliente, se debe determinar en qué punto se encuentra el cliente potencial con relación al proceso de venta. De esta monitorización surge la necesidad de la trazabilidad del servicio para saber cómo reaccionar ante los eventos que se susciten. El poder de la trazabilidad se ajusta al conocimiento del cliente, determinando en qué punto se encuentra, si es necesario instruirlo acerca del producto que está interesado en adquirir o simplemente incentivarlo un poco para que lleve a cabo la compra. Según el portal web #[em Leader Marketing Solutions] (2018), el #[em lead] puede ubicarse en uno de los siguientes escenarios:
 
       .d-none.d-lg-block.col-sm-4.col-lg-4
         figure

@@ -250,6 +250,9 @@ figcaption
       transform: translateY(calc( 100% - 5.15rem ))
       &:hover
         transform: translateY(0)
+      &--small
+        @media (max-width: 375px)  
+          transform: translateY(calc( 100% - 5.15rem ))
   
   @media (min-width:1200px) and (max-width:1400px)  
     .crd_hover_txt--body

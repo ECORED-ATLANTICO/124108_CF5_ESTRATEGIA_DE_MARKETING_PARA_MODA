@@ -162,16 +162,16 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
-        p De acuerdo con Ariño (2018), el proceso de ventas se define como “una sucesión de pasos que una empresa establece para realizar de manera efectiva sus ventas” (p.130). Por lo tanto, para que una venta se lleve a cabo, se requiere de una buena planeación y un paso a paso que determinará el logro de los objetivos propuestos por una marca o empresa. De esta misma forma, es como se desarrolla el famoso embudo de ventas, que permite graficar las etapas que cumple el cliente para llevar a cabo el resultado de la venta.
+        p De acuerdo con Ariño (2018), el proceso de ventas se define como “una sucesión de pasos que una empresa establece para realizar de manera efectiva sus ventas” (p.130). Por lo tanto, para que una venta se lleve a cabo, se requiere de una buena planeación y un paso a paso que determinará el logro de los objetivos propuestos por una marca o empresa. De esta misma forma es como se desarrolla el famoso embudo de ventas, que permite graficar las etapas que cumple el cliente para llevar a cabo el resultado de la venta.
         p.mb-lg-0 A continuación, se detallarán los pasos determinados en el portal web Zendesk (2020) para un proceso de ventas. Es importante que, una vez finalizada la lectura de este proceso, describa mentalmente cómo haría usted el proceso de venta si estuviera hoy trabajando.
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/17.png", alt="descripcion")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/17.png", alt="")
 
     .row.justify-content-center
       .d-none.d-lg-block.col-8.col-lg-4
         figure
-          img(src="@/assets/curso/tema1/18.png", alt="alt")
+          img(src="@/assets/curso/tema1/18.png", alt="")
       .col-lg-8
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Prospección")
@@ -200,7 +200,7 @@
                     span #[strong Atención]: captar la atención del cliente.
                   li.d-flex
                     i.lista-ul__vineta 
-                    span #[strong Interés]: generar un tema entorno a los beneficios de lo ofrecido.
+                    span #[strong Interés]: generar un tema en torno a los beneficios de lo ofrecido.
                   li.d-flex
                     i.lista-ul__vineta 
                     span #[strong Deseo de compra]: la conversación debe llevar al deseo de la compra por parte del cliente. 
@@ -227,7 +227,7 @@
       .col-lg-8
         p A partir de la estrategia de #[em marketing] adoptada es como se define el canal de venta adecuado para que una empresa promocione un producto o servicio y este, a su vez, llegue a definirse como venta. Según el portal web Hotmart (2018), el canal de venta se define como el medio por el cual el cliente tiene contacto con los productos o servicios que una empresa ofrece.
         .p-3.bg-azul-claro.rounded-4
-          p Dentro de los canales de venta, se tienen en cuenta las plataformas y herramientas utilizadas para acercar al cliente con la oferta de una empresa, donde se encuentran implícitos los canales de promoción para publicitar un producto y lograr que este conecte con el cliente para lograr la venta. Cada empresa puede definir el canal o los canales de ventas que más se ajusten, dependiendo de lo que ofrece, el público al que se dirige, las oportunidades en el mercado, entre otros factores; al entender estas nociones básicas se puede definir qué canal será el más adecuado.
+          p Dentro de los canales de venta, se tienen en cuenta las plataformas y herramientas utilizadas para acercar al cliente con la oferta de una empresa, donde se encuentran implícitos los canales de promoción para publicitar un producto y lograr que este conecte con el cliente para lograr la venta. Cada empresa puede definir el canal o los canales de ventas que más se ajusten, dependiendo de lo que ofrece, el público al que se dirige, las oportunidades en el mercado, entre otros factores; al entender estas nociones básicas, se puede definir qué canal será el más adecuado.
           p.mb-0 De acuerdo con el portal web Hotmart (2018), los canales de venta están determinados en dos grandes grupos, dependiendo del medio utilizado. Se pueden observar en el siguiente gráfico:
           
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-azul-medio")
@@ -339,7 +339,7 @@
                 img(data-aos="fade-down-right", src="@/assets/curso/tema1/30.png", alt="")
         p Al hacer uso del #[em social selling] se obtiene una ventaja significativa frente a las estrategias tradicionales, con el enfoque en el conocimiento del cliente, adaptando la marca y tono de comunicación a sus gustos, generando conexiones duraderas que vayan más allá de una venta y se conviertan en una experiencia de largo alcance.    
     .p-4.bg-primario-p10.rounded-4.mb-4.mb-lg-5
-      p.mb-0.text-center #[strong Para hacer uso del #[em social selling], estos son los pasos a tener presente y que pueden ser útiles en el contexto profesional:]
+      p.mb-0.text-center #[strong Para hacer uso del #[em social selling], estos son los pasos a tener presentes y que pueden ser útiles en el contexto profesional:]
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
@@ -367,7 +367,7 @@
               img(src="@/assets/curso/tema1/33.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Tercer paso
-            p.mb-0 El tercer paso, es realizar la venta. El cliente debe tener la oportunidad de enviar una reseña acerca del producto o servicio adquirido, lo cual permitirá que otros usuarios se conviertan en posibles clientes a partir de la experiencia de alguien que ya hizo uso de dicho producto.
+            p.mb-0 El tercer paso es realizar la venta. El cliente debe tener la oportunidad de enviar una reseña acerca del producto o servicio adquirido, lo cual permitirá que otros usuarios se conviertan en posibles clientes a partir de la experiencia de alguien que ya hizo uso de dicho producto.
     
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
       p.mb-0 Con todo esto, es como el #[em social selling] pisa fuerte en las ventas digitales, con la gran afluencia de usuarios en redes sociales, donde la creatividad y asertividad de las empresas define el éxito de su conexión con el público.
