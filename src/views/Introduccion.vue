@@ -51,10 +51,7 @@
               img(src="@/assets/curso/introduccion/5.png", alt="")
           .crd_hover_txt--body.long-title--small
             h4.mb-5 ¿Cuál es objeto de aprendizaje?
-            p Una vez finalizado este componente de formación se espera que usted pueda:
-            p Prestar servicio al cliente acorde a unos lineamientos.
-            p Registrar información y bases de datos en el marco del servicio al cliente.
-            p.mb-0 Manejar comunidades en entornos digitales.
+            p.mb-0 Registrar información y bases de datos en el marco del servicio al cliente, de conformidad con la Ley 1581 de 2012, el Decreto 1074 de 2015, que compila la reglamentación aplicable al tratamiento de datos personales, y la Ley 2300 de 2023, relacionada con las comunicaciones comerciales, los canales de contacto y la protección de la intimidad del consumidor. 
 
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")

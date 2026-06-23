@@ -349,7 +349,7 @@
               img(src="@/assets/curso/tema1/31.png", alt="")
           .crd_hover_txt--body
             h4.mb-4.text-center Primer paso
-            p.mb-0 El primer paso está en la búsqueda de prospectos comerciales, aquellos usuarios que pueden estar dentro del público objetivo y que puedan interesarse por actividades de la marca con las que se pueda generar una base de datos; por ejemplo, concursos, registros en eventos virtuales, etc.
+            p.mb-0 El primer paso está en la búsqueda de prospectos comerciales, aquellos usuarios que pueden estar dentro del público objetivo y que puedan interesarse por actividades de la marca con las que se pueda generar una base de datos; por ejemplo, concursos, registros en eventos virtuales, entre otros. En estos casos, debe existir autorización previa, expresa e informada del titular para el tratamiento de sus datos personales, de conformidad con la Ley 1581 de 2012 y el Decreto 1074 de 2015. Asimismo, cuando la información se utilice para fines de contacto o comunicación comercial, deberán observarse las disposiciones establecidas en la Ley 2300 de 2023. 
 
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt.rounded-4(data-aos="flip-left")

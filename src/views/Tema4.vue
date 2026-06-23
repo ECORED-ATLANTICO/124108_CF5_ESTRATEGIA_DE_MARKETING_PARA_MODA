@@ -128,14 +128,15 @@
           
           .row.align-items-center.justify-content-center(numero="11" titulo="Usar el <em>email marketing</em>")
             .col-lg-8
-              p.mb-4.mb-lg-0 A través del correo electrónico y con la ayuda de las bases de datos, los clientes de una marca podrán estar enterados constantemente de todo lo que se relacione con la marca y que les compete a ellos, como promociones, bonos, combos, beneficios, etc.
+              p.mb-4.mb-lg-0 A través del correo electrónico y con la ayuda de las bases de datos, los clientes de una marca podrán estar enterados constantemente de todo lo que se relacione con la marca y que les compete a ellos, como promociones, bonos, combos, beneficios, entre otros. Para el envío de este tipo de comunicaciones, la organización debe contar con la autorización previa, expresa e informada del titular de los datos personales y garantizar que la finalidad del tratamiento haya sido comunicada de manera clara, de conformidad con la Ley 1581 de 2012 y el Decreto 1074 de 2015. Asimismo, se deben disponer mecanismos que permitan a los titulares ejercer sus derechos de consulta, actualización, rectificación y supresión de la información. Para las comunicaciones comerciales dirigidas a consumidores también deberán observarse las disposiciones establecidas en la Ley 2300 de 2023.
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/15.png", alt="")
 
           .row.align-items-center.justify-content-center(numero="12" titulo="Base de datos de los clientes")
             .col-lg-8
-              p.mb-4.mb-lg-0 Tener una base de datos completa con la información de los clientes se constituye en una mina de oro en el #[em marketing]. Con el adecuado uso de estas, se puede llegar a los clientes potenciales de manera más efectiva.
+              p Tener una base de datos completa y actualizada con la información de los clientes se constituye en una herramienta valiosa para las estrategias de #[em marketing]. Con el adecuado uso de esta información, se puede llegar a los clientes potenciales de manera más efectiva y ofrecer productos, servicios o beneficios acordes con sus necesidades e intereses. 
+              p.mb-4.mb-lg-0 No obstante, la recolección, almacenamiento, uso y circulación de los datos personales debe realizarse respetando el derecho fundamental al hábeas data y las disposiciones establecidas en la Ley 1581 de 2012 y el Decreto 1074 de 2015. Asimismo, cuando la información sea utilizada para fines de contacto o comunicación comercial con consumidores, deberán observarse las disposiciones de la Ley 2300 de 2023. 
             .col-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema4/16.png", alt="")
@@ -162,7 +163,8 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/18.png", alt="")
       .col-lg-8
         .p-4.bg-azul-medio
-          p.mb-0 Las bases de datos se constituyen principalmente por información del historial de ventas, datos demográficos y socioeconómicos, además de otros que la empresa puede definir como determinantes. Tal como lo afirman García y Gutiérrez (2013), “Este tipo de información ayuda a la empresa a conocer mejor a sus clientes, de modo que se puedan llevar a cabo acciones de #[em marketing] individualizadas” (p.135). Esto permitirá personalizar la información y dirigir las estrategias hacia los enfoques de los clientes, para lograr una ventaja competitiva frente a otras empresas del sector.
+          p Las bases de datos se constituyen principalmente por información del historial de ventas, datos demográficos y socioeconómicos, además de otros que la empresa puede definir como determinantes. Tal como lo afirman García y Gutiérrez (2013), “Este tipo de información ayuda a la empresa a conocer mejor a sus clientes, de modo que se puedan llevar a cabo acciones de #[em marketing] individualizadas” (p.135). Esto permitirá personalizar la información y dirigir las estrategias hacia los enfoques de los clientes, para lograr una ventaja competitiva frente a otras empresas del sector.
+          p.mb-0 Es importante tener en cuenta que el historial de ventas, los datos demográficos, socioeconómicos y demás información asociada a una persona natural constituyen datos personales o pueden permitir su identificación. Por esta razón, su recolección y tratamiento deben realizarse con autorización previa del titular, para una finalidad específica y aplicando medidas de seguridad que garanticen su protección, así como el respeto de los derechos de consulta, actualización, rectificación y supresión de la información, de conformidad con la Ley 1581 de 2012 y el Decreto 1074 de 2015. 
 
     .cajon.color-acento-contenido.p-4
       p.mb-0 Las nuevas tecnologías han desempeñado un papel crucial para el manejo de la información en las bases de datos, generando mecanismos de automatización que, al conectar con herramientas como el #[em email marketing], logran un alcance muy elevado de usuarios, lo cual optimiza recursos y supone beneficios para la empresa.
@@ -177,7 +179,9 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.banner-text--azul
-          p.mb-0 La base de datos se construye desde el primer acercamiento del cliente con los productos o servicios de una empresa y es un proceso que se lleva a cabo en el tiempo, para establecer relaciones a largo plazo que conecten ambas partes desde las acciones del emisor con las reacciones del receptor, en este caso, los clientes. Para generar una base de datos, se deben tener en cuenta las siguientes fases (García y Gutiérrez, 2013):
+          p.mb-0 La base de datos se construye desde el primer acercamiento del cliente con los productos o servicios de una empresa y es un proceso que se lleva a cabo en el tiempo, para establecer relaciones a largo plazo que conecten ambas partes desde las acciones del emisor con las reacciones del receptor, en este caso, los clientes. 
+          p.mb-0 Antes de iniciar la generación de una base de datos, es necesario tener en cuenta que la recolección de datos personales debe realizarse con autorización previa, expresa e informada del titular, contar con una política de tratamiento de datos personales y responder a una finalidad definida, de conformidad con la Ley 1581 de 2012 y el Decreto 1074 de 2015. 
+          p.mb-0 Para generar una base de datos, se deben tener en cuenta las siguientes fases (García y Gutiérrez, 2013): 
 
     TabsB.color-secundario
       .py-4.py-md-5.px-3(titulo="Determinar la tecnología adecuada" :icono="require('@/assets/curso/tema4/20.png')")

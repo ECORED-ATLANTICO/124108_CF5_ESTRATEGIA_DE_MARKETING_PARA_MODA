@@ -132,7 +132,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA5_124108_DU.pdf',
+        download: 'downloads/124108_CF05_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -174,76 +174,86 @@ export default {
   referencias: [
     {
       referencia:
-        'Ariño, J. (2018). <em>Ventas para emprendedores: Todo lo que necesitas saber.</em> ECOE.',
+        'Ariza, F. y Ariza, J. (2014). <em>Comunicación empresarial y atención al cliente</em>. McGraw-Hill Interamericana.',
       link: '',
     },
     {
       referencia:
-        'Ariza, F., y Ariza, J. (2014). <em>Comunicación empresarial y atención al cliente.</em> McGraw-Hill Interamericana.',
+        'Ariño, J. J. (2018). <em>Ventas para emprendedores: Todo lo que necesitas saber</em>. Ecoe Ediciones.',
       link: '',
     },
     {
       referencia:
-        'Contreras, N. (2019, 12 de marzo). <em>Social selling: La guía de ventas en redes sociales.</em> Hootsuite.',
+        'Contreras, N. (2019, 12 de marzo). <em>Social selling: La guía de ventas en redes sociales</em>. Hootsuite.',
       link:
-        'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/#:%7E:text=El%20social%20selling%20es%20el,significativas%20con%20los%20clientes%20potenciales',
+        'https://blog.hootsuite.com/es/social-selling-venta-en-redes-sociales/',
     },
     {
       referencia:
-        'Creatiburón. (2016, 10 de octubre). <em>Fidelización de clientes: te doy la receta para conseguir clientes leales.</em>',
-      link: 'https://www.creatiburon.com/fidelizacion-de-clientes/ ',
+        'Congreso de Colombia. (2012, 17 de octubre). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. <em>Diario Oficial</em>.',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1684507',
     },
     {
       referencia:
-        'García, B., y Gutiérrez, A. (2013). <em>Marketing de fidelización</em> (1.ª ed.). Ediciones Pirámide.',
+        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. <em>Diario Oficial</em>.',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30019935',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (2023, 10 de julio). Ley 2300 de 2023. Por medio de la cual se establecen medidas que protejan el derecho a la intimidad de los consumidores. <em>Diario Oficial</em>.',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30046853',
+    },
+    {
+      referencia:
+        'Creatiburón. (2016, 10 de octubre). <em>Fidelización de clientes: Te doy la receta para conseguir clientes leales</em>.',
+      link: 'https://www.creatiburon.com/fidelizacion-de-clientes/',
+    },
+    {
+      referencia:
+        'García Gómez, B., y Gutiérrez Arranz, A. M. (2013). <em>Marketing de fidelización</em>. Ediciones Pirámide.',
       link: '',
     },
     {
       referencia:
-        'Hotmart. (2021, 28 de abril). <em>Canales de venta: ¿cuáles son los más eficientes hoy en día?</em>',
+        'Hotmart. (2021, 28 de abril). <em>Canales de venta: ¿Cuáles son los más eficientes hoy en día?</em>',
+      link: 'https://hotmart.com/es/blog/canales-de-venta',
+    },
+    {
+      referencia:
+        'IMF Business School. (10 de enero de 2017). <em>Redacción en medios digitales: El reto para los Marketers</em>. IMF Blog.',
       link:
-        'https://blog.hotmart.com/es/canales-de-venta/#:%7E:text=Los%20canales%20de%20venta%20son,con%20el%20negocio%20que%20ofreces',
+        'https://blogs.imf-formacion.com/blog/marketing/redaccion-medios-digitales-marketers/',
     },
     {
       referencia:
-        'IMF Business School. (2020, 22 de junio). <em>Redacción en medios digitales: El reto para los Marketers.</em>',
-      link: '',
-    },
-    {
-      referencia:
-        'Leadera Marketing Solutions. (2018, 19 de octubre). <em>Sistemas para mantener la trazabilidad de leads.</em>',
-      link: '',
-    },
-    {
-      referencia:
-        'Muente, G. (2018, 22 de mayo). <em>Tipos de ventas: ¿cuáles existen y en qué se distinguen?</em> Rock Content.',
+        'Muente, G. (Mayo 22 de 2018). <em>Tipos de ventas: ¿cuáles existen y en qué se distinguen?</em> Rock Content - ES.',
       link: 'https://rockcontent.com/es/blog/tipos-de-ventas/',
     },
     {
       referencia:
-        'Pastrana, C. (2014, 10 de febrero). <em>Cómo escribir en Internet: técnicas de redacción periodística.</em> IEBS.',
+        'Pastrana, C. (2014, 10 de febrero). <em>Cómo escribir en Internet: Técnicas de redacción periodística</em>. IEBS.',
       link:
-        'https://www.iebschool.com/blog/redaccion-medios-online-comunicacion-digital/',
+        'https://www.iebschool.com/hub/redaccion-medios-online-comunicacion-digital/',
     },
     {
       referencia:
-        'RD Station. (s.f.). <em>Ventas: estrategias, técnicas y todo lo que necesitas saber.</em>',
+        'RD Station. (s. f.). <em>Ventas: Estrategias, técnicas y todo lo que necesitas saber</em>.',
+      link: 'https://www.rdstation.com/es/ventas/',
+    },
+    {
+      referencia:
+        'Soria Ibáñez, M. del M. (2015). <em>Plan de medios de comunicación e Internet: UF2398</em>. Editorial CEP.',
       link: '',
     },
     {
       referencia:
-        'Soria, M. (2016). <em>Plan de medios de comunicación e Internet</em> (1.ª ed.). CEP.',
-      link: '',
+        'Tenebit. (22 de marzo de 2023). <em>El CRM en la cultura organizacional</em>. Tenebit Blog.',
+      link: 'https://www.tenebit.com.co/crm-en-la-cultura-organizacional/',
     },
     {
       referencia:
-        'Tenebit. (2020, 7 de enero). <em>3 Pilares para implementar un CRM exitoso en tu empresa.</em>',
-      link: '',
-    },
-    {
-      referencia:
-        'Zendesk. (2020, 29 de septiembre). <em>Conoce las 7 etapas del proceso de ventas.</em>',
-      link: '',
+        'Zendesk. (13 de abril de 2022). <em>Etapas del proceso de ventas: 7 pasos para cerrar más tratos</em>. Zendesk Blog.',
+      link: 'https://www.zendesk.es/blog/sales/7-pasos-para-cerrar-mas-tratos/',
     },
   ],
   creditos: [
