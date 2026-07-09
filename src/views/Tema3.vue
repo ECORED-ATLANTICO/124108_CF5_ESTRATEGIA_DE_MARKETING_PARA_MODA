@@ -36,7 +36,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.col-xl-6
             h5 Procesos
-            p.mb-4.mb-lg-0 Es necesario evaluar los procesos que se llevan a cabo al interior de la empresa para que el CRM se efectúe correctamente, es decir, buscar que la herramienta se adapte a la empresa entendiendo, todo el potencial que esta permite y la manera en que se direcciona para lograr los objetivos propuestos. El manejo de datos es imprescindible para el desarrollo de la estrategia.
+            p.mb-4.mb-lg-0 Es necesario evaluar los procesos que se llevan a cabo al interior de la empresa para que el CRM se efectúe correctamente, es decir, buscar que la herramienta se adapte a la empresa, entendiendo todo el potencial que esta permite y la manera en que se direcciona para lograr los objetivos propuestos. El manejo de datos es imprescindible para el desarrollo de la estrategia.
           .col-sm-8.col-lg-5.col-xl-4
             figure
               img(src='@/assets/curso/tema3/7.png', alt='')
